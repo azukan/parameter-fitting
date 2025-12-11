@@ -1,0 +1,1686 @@
+seed = 75
+[2025-11-29 19:08:06,749][task][INFO][color_logger.py:203] Logfile: /home/yang_zihan/autumn25/hh_gpu_FS_ferret_2v/251125_v1/logs/task_2025-11-29-19-08-06-749462.log
+[2025-11-29 19:08:06,766][task][INFO][html_visualizer.py:462] Please open the html file to view visualization result: file:///home/yang_zihan/autumn25/hh_gpu_FS_ferret_2v/251125_v1/logs/history/task/task_2025-11-29-19-08-06-764577.html
+Refresh
+
+
+
+Task Id Advisor Type Surrogate Type Current Run Max Runs Max Runtime Per Trial
+
+  • Objective Function
+  • Surrogate Model
+  • Parameter Importance
+  • Historical configurations
+
+
+
+
+Index Objectives Constraints Configuration Status Time
+
+Config List
+
+×
+Close
+
+Object Values
+
+×
+Close
+
+Constraint Values
+
+×
+Close
+  0%|          | 0/100 [00:00<?, ?it/s]Iter 0/300, Best Score: 97.867508, Time: 26.18 s
+Iter 20/300, Best Score: 49.226604, Time: 204.30 s
+Iter 40/300, Best Score: 38.259956, Time: 347.41 s
+Iter 60/300, Best Score: 38.259956, Time: 521.32 s
+Iter 80/300, Best Score: 15.672133, Time: 668.03 s
+Iter 100/300, Best Score: 15.672133, Time: 829.26 s
+Iter 120/300, Best Score: 15.672133, Time: 995.78 s
+Iter 140/300, Best Score: 15.672133, Time: 1148.35 s
+Iter 160/300, Best Score: 15.672133, Time: 1341.50 s
+Iter 180/300, Best Score: 15.672133, Time: 1548.25 s
+[Early stop] Iter 200/300: best=15.672133, Time: 1729.16 s
+score： tensor(15.6721)
+Time taken: 1729.18 seconds
+[ 4.0000000e+00,-3.1637712e+00,-2.6208739e+00, 1.3836290e+00,
+  1.7548180e+00, 8.4755850e+00,-1.2863588e+00,-2.7033353e+00,
+  1.4659321e+00, 7.7673370e-01, 8.6860405e-04, 9.8643532e+00]
+[2025-11-29 19:36:55,984][task][INFO][generic_smbo.py:295] Iter 1, objectives: [15.672133445739746].
+  1%|          | 1/100 [28:49<47:33:09, 1729.19s/it]Iter 0/300, Best Score: 96.346077, Time: 6.58 s
+Iter 20/300, Best Score: 29.904596, Time: 206.49 s
+Iter 40/300, Best Score: 15.199383, Time: 424.31 s
+Iter 60/300, Best Score: 6.257561, Time: 662.48 s
+Iter 80/300, Best Score: 3.965233, Time: 839.11 s
+Iter 100/300, Best Score: 3.815434, Time: 1077.71 s
+Iter 120/300, Best Score: 3.811152, Time: 1332.49 s
+Iter 140/300, Best Score: 3.683871, Time: 1544.52 s
+Iter 160/300, Best Score: 3.592306, Time: 1760.70 s
+Iter 180/300, Best Score: 3.570027, Time: 2000.06 s
+Iter 200/300, Best Score: 3.561206, Time: 2170.81 s
+Iter 220/300, Best Score: 3.542567, Time: 2343.15 s
+Iter 240/300, Best Score: 3.516295, Time: 2513.70 s
+Iter 260/300, Best Score: 3.515691, Time: 2718.84 s
+Iter 280/300, Best Score: 3.515097, Time: 2889.71 s
+score： tensor(3.5122)
+Time taken: 3086.35 seconds
+[ 2.7162728e+00,-2.1903007e+00,-2.0250924e+00, 5.1548958e-01,
+  1.6426011e+00, 7.1376023e+00,-1.3276488e+00,-9.9525076e-01,
+  2.5276911e+00, 5.7530749e-01, 5.5788067e-04, 3.5025709e+00]
+[2025-11-29 20:28:22,338][task][INFO][generic_smbo.py:295] Iter 2, objectives: [3.5121850967407227].
+  2%|▏         | 2/100 [1:20:15<68:48:16, 2527.52s/it]Iter 0/300, Best Score: 93.353775, Time: 6.61 s
+Iter 20/300, Best Score: 46.933578, Time: 169.56 s
+Iter 40/300, Best Score: 46.933578, Time: 335.68 s
+Iter 60/300, Best Score: 46.933578, Time: 499.49 s
+Iter 80/300, Best Score: 46.933578, Time: 659.43 s
+[Early stop] Iter 100/300: best=46.933578, Time: 811.14 s
+score： tensor(46.9336)
+Time taken: 811.14 seconds
+[ 4.1015255e-01,-3.5580254e+00,-2.6612949e+00, 2.9326475e+00,
+  1.0000000e-01, 1.4721222e+01, 5.0000000e+00,-4.5160532e+00,
+ -1.3173447e+00, 1.0000000e+01, 6.0745180e-03, 7.2491779e+00]
+[2025-11-29 20:41:53,482][task][INFO][generic_smbo.py:295] Iter 3, objectives: [46.93357849121094].
+  3%|▎         | 3/100 [1:33:46<46:59:07, 1743.79s/it]Iter 0/300, Best Score: 104.840942, Time: 6.99 s
+Iter 20/300, Best Score: 70.975739, Time: 182.26 s
+Iter 40/300, Best Score: 50.526882, Time: 364.31 s
+Iter 60/300, Best Score: 50.526882, Time: 507.89 s
+Iter 80/300, Best Score: 50.526882, Time: 687.01 s
+[Early stop] Iter 100/300: best=47.550007, Time: 875.53 s
+score： tensor(47.5500)
+Time taken: 875.53 seconds
+[ 1.0000000e-01,-4.0000000e+00,-5.0000000e+00, 5.0000000e+00,
+  1.0000000e-01, 1.4610377e+01,-5.0000000e+00, 5.0000000e+00,
+ -1.4714854e+00, 7.9857569e+00, 9.3129780e-03, 1.0000000e+01]
+[2025-11-29 20:56:29,013][task][INFO][generic_smbo.py:295] Iter 4, objectives: [47.55000686645508].
+  4%|▍         | 4/100 [1:48:22<37:21:36, 1401.01s/it]Iter 0/300, Best Score: 97.153481, Time: 6.84 s
+Iter 20/300, Best Score: 27.357700, Time: 184.79 s
+Iter 40/300, Best Score: 22.420053, Time: 389.91 s
+Iter 60/300, Best Score: 22.301392, Time: 630.69 s
+Iter 80/300, Best Score: 22.252850, Time: 827.86 s
+[Early stop] Iter 100/300: best=22.248055, Time: 1020.21 s
+score： tensor(22.2481)
+Time taken: 1020.21 seconds
+[ 1.4625951e+00,-2.1345582e+00,-2.6108384e+00,-3.4571168e-01,
+  6.3988280e-01, 6.6880898e+00,-1.9733963e+00, 3.0741957e-01,
+ -7.1317232e-01, 6.7746396e+00, 2.2114690e-03, 7.3681965e+00]
+[2025-11-29 21:13:29,227][task][INFO][generic_smbo.py:295] Iter 5, objectives: [22.24805450439453].
+  5%|▌         | 5/100 [2:05:22<33:20:50, 1263.69s/it]Iter 0/300, Best Score: 97.655136, Time: 7.16 s
+Iter 20/300, Best Score: 72.769066, Time: 171.80 s
+Iter 40/300, Best Score: 72.769066, Time: 302.94 s
+Iter 60/300, Best Score: 50.210686, Time: 438.18 s
+Iter 80/300, Best Score: 47.647476, Time: 584.61 s
+[Early stop] Iter 100/300: best=47.647476, Time: 708.40 s
+score： tensor(47.6475)
+Time taken: 708.40 seconds
+[ 1.0000000e-01,-4.0000000e+00,-5.0000000e+00, 5.0000000e+00,
+  1.0000000e-01, 1.5000000e+01,-5.0000000e+00, 5.0000000e+00,
+ -1.6104994e+00, 1.0000000e+01, 8.6442772e-03, 1.0000000e+01]
+[2025-11-29 21:25:17,689][task][INFO][generic_smbo.py:295] Iter 6, objectives: [47.64747619628906].
+  6%|▌         | 6/100 [2:17:10<28:04:01, 1074.91s/it]Iter 0/300, Best Score: 99.368416, Time: 6.91 s
+Iter 20/300, Best Score: 28.760447, Time: 163.09 s
+Iter 40/300, Best Score: 28.477919, Time: 335.73 s
+Iter 60/300, Best Score: 28.476698, Time: 509.34 s
+Iter 80/300, Best Score: 28.476389, Time: 685.02 s
+[Early stop] Iter 100/300: best=28.476374, Time: 879.23 s
+score： tensor(28.4764)
+Time taken: 879.23 seconds
+[ 3.3724475e+00,-3.5937550e+00,-2.3831697e+00, 3.7661052e+00,
+  5.7571185e-01, 9.0490885e+00,-1.7699779e+00, 4.5735278e+00,
+ -2.3018472e+00, 4.7947888e+00, 3.1030895e-03, 6.8423200e+00]
+[2025-11-29 21:39:56,989][task][INFO][generic_smbo.py:295] Iter 7, objectives: [28.47637367248535].
+  7%|▋         | 7/100 [2:31:50<26:06:59, 1010.96s/it]Iter 0/300, Best Score: 103.744606, Time: 10.70 s
+Iter 20/300, Best Score: 91.630173, Time: 321.81 s
+Iter 40/300, Best Score: 91.630173, Time: 750.19 s
+Iter 60/300, Best Score: 91.630173, Time: 1101.15 s
+Iter 80/300, Best Score: 91.630173, Time: 1428.86 s
+[Early stop] Iter 100/300: best=91.630173, Time: 1809.44 s
+score： tensor(91.6302)
+Time taken: 1809.44 seconds
+[ 3.0201476e+00,-2.0774887e+00,-4.7879009e+00,-6.1806989e-01,
+  4.0000000e+00, 5.5305419e+00, 5.0000000e+00,-1.3834124e+00,
+  4.6587567e+00, 1.0000000e-01, 5.0680083e-04, 1.0000000e-01]
+[2025-11-29 22:10:06,577][task][INFO][generic_smbo.py:295] Iter 8, objectives: [91.63017272949219].
+  8%|▊         | 8/100 [3:01:59<32:19:59, 1265.21s/it]Iter 0/300, Best Score: 93.287796, Time: 6.60 s
+Iter 20/300, Best Score: 67.735809, Time: 147.59 s
+Iter 40/300, Best Score: 49.119942, Time: 273.84 s
+Iter 60/300, Best Score: 47.392830, Time: 398.31 s
+Iter 80/300, Best Score: 47.392830, Time: 522.01 s
+[Early stop] Iter 100/300: best=43.122585, Time: 638.92 s
+score： tensor(43.1226)
+Time taken: 638.92 seconds
+[ 1.0000000e-01,-1.0000000e+00,-5.0000000e+00, 5.0000000e+00,
+  1.0000000e-01, 6.1796117e+00,-5.0000000e+00, 5.0000000e+00,
+ -2.3623695e+00, 1.0000000e+01, 8.0417823e-03, 1.0000000e+01]
+[2025-11-29 22:20:45,599][task][INFO][generic_smbo.py:295] Iter 9, objectives: [43.12258529663086].
+  9%|▉         | 9/100 [3:12:38<27:02:00, 1069.45s/it]Iter 0/300, Best Score: 83.778938, Time: 6.60 s
+Iter 20/300, Best Score: 58.581230, Time: 178.99 s
+Iter 40/300, Best Score: 58.581230, Time: 313.26 s
+Iter 60/300, Best Score: 58.581230, Time: 444.17 s
+Iter 80/300, Best Score: 50.409401, Time: 600.42 s
+[Early stop] Iter 100/300: best=46.036690, Time: 770.02 s
+score： tensor(46.0367)
+Time taken: 770.02 seconds
+[ 1.0000000e-01,-4.0000000e+00,-5.0000000e+00,-5.0000000e+00,
+  1.0000000e-01, 1.5000000e+01,-5.0000000e+00,-5.0000000e+00,
+ -1.5096769e+00, 1.0000000e+01, 1.1834732e-02, 1.0000000e+01]
+[2025-11-29 22:33:35,703][task][INFO][generic_smbo.py:295] Iter 10, objectives: [46.03668975830078].
+ 10%|█         | 10/100 [3:25:28<24:25:33, 977.04s/it]Iter 0/300, Best Score: 99.195580, Time: 10.62 s
+Iter 20/300, Best Score: 37.233013, Time: 207.50 s
+Iter 40/300, Best Score: 22.474339, Time: 380.45 s
+Iter 60/300, Best Score: 20.537691, Time: 574.63 s
+Iter 80/300, Best Score: 18.679817, Time: 725.41 s
+Iter 100/300, Best Score: 18.679817, Time: 908.97 s
+Iter 120/300, Best Score: 18.679817, Time: 1111.08 s
+Iter 140/300, Best Score: 18.679817, Time: 1276.99 s
+Iter 160/300, Best Score: 15.281847, Time: 1474.18 s
+Iter 180/300, Best Score: 15.281847, Time: 1670.04 s
+[Early stop] Iter 200/300: best=15.281847, Time: 1858.47 s
+score： tensor(15.2818)
+Time taken: 1858.47 seconds
+[ 5.6339836e-01,-1.0410333e+00,-2.8840828e+00, 2.8626928e+00,
+  4.2746109e-01, 1.1792225e+01,-2.3238153e+00, 3.6119707e+00,
+  6.0914224e-01, 4.8459759e+00, 1.8946705e-03, 1.0000000e+01]
+[2025-11-29 23:04:34,384][task][INFO][generic_smbo.py:295] Iter 11, objectives: [15.28184700012207].
+ 11%|█         | 11/100 [3:56:27<30:49:31, 1246.87s/it][2025-11-29 23:04:34,385][task][INFO][generic_advisor.py:365] Sample random config. rand_prob=0.100000.
+Iter 0/300, Best Score: 95.712181, Time: 10.86 s
+Iter 20/300, Best Score: 29.096188, Time: 220.93 s
+Iter 40/300, Best Score: 15.334958, Time: 424.06 s
+Iter 60/300, Best Score: 14.475557, Time: 630.81 s
+Iter 80/300, Best Score: 14.338846, Time: 789.15 s
+Iter 100/300, Best Score: 14.232758, Time: 999.12 s
+Iter 120/300, Best Score: 14.124479, Time: 1222.95 s
+Iter 140/300, Best Score: 14.019160, Time: 1398.89 s
+Iter 160/300, Best Score: 13.973510, Time: 1598.12 s
+Iter 180/300, Best Score: 13.966286, Time: 1763.70 s
+[Early stop] Iter 200/300: best=13.965107, Time: 1922.76 s
+score： tensor(13.9651)
+Time taken: 1922.76 seconds
+[ 2.4076624e+00,-1.9184153e+00,-9.8125631e-01,-7.2152936e-01,
+  1.5508643e+00, 1.0746359e+01,-3.2748064e-01,-1.6504017e+00,
+ -5.1093417e-01, 2.7714155e+00, 1.6396634e-03, 7.4347501e+00]
+[2025-11-29 23:36:37,151][task][INFO][generic_smbo.py:295] Iter 12, objectives: [13.965106964111328].
+ 12%|█▏        | 12/100 [4:28:30<35:30:18, 1452.48s/it]Iter 0/300, Best Score: 84.871216, Time: 6.89 s
+Iter 20/300, Best Score: 32.058895, Time: 145.17 s
+Iter 40/300, Best Score: 17.383928, Time: 289.49 s
+Iter 60/300, Best Score: 15.159259, Time: 475.12 s
+Iter 80/300, Best Score: 13.570627, Time: 623.84 s
+Iter 100/300, Best Score: 10.386924, Time: 808.34 s
+Iter 120/300, Best Score: 10.061018, Time: 958.02 s
+Iter 140/300, Best Score: 9.206094, Time: 1109.70 s
+Iter 160/300, Best Score: 8.985165, Time: 1260.37 s
+Iter 180/300, Best Score: 8.985165, Time: 1458.49 s
+Iter 200/300, Best Score: 8.768909, Time: 1614.24 s
+Iter 220/300, Best Score: 8.768909, Time: 1769.17 s
+Iter 240/300, Best Score: 8.741943, Time: 1949.12 s
+Iter 260/300, Best Score: 8.510058, Time: 2160.62 s
+Iter 280/300, Best Score: 8.414802, Time: 2317.40 s
+score： tensor(8.4148)
+Time taken: 2467.93 seconds
+[ 1.9805397e-01,-3.2798967e+00,-5.0000000e+00, 1.0281583e+00,
+  1.0000000e-01, 7.4756503e+00,-4.1018095e+00, 2.1946039e+00,
+ -1.3222183e+00, 2.1858847e+00, 2.2559736e-03, 9.0836477e+00]
+[2025-11-30 00:17:45,204][task][INFO][generic_smbo.py:295] Iter 13, objectives: [8.414801597595215].
+ 13%|█▎        | 13/100 [5:09:38<42:32:11, 1760.13s/it]Iter 0/300, Best Score: 92.310707, Time: 6.89 s
+Iter 20/300, Best Score: 47.108635, Time: 144.37 s
+Iter 40/300, Best Score: 39.679855, Time: 285.06 s
+Iter 60/300, Best Score: 39.447037, Time: 426.81 s
+Iter 80/300, Best Score: 37.425442, Time: 569.38 s
+[Early stop] Iter 100/300: best=33.908104, Time: 741.44 s
+score： tensor(33.9081)
+Time taken: 741.44 seconds
+[ 5.9365487e-01,-3.9081540e+00,-4.5011821e+00,-3.8559875e+00,
+  1.0000000e-01, 1.4045017e+01,-1.3807571e-01,-4.8950701e+00,
+ -1.2337699e+00, 3.7613494e+00, 2.8160643e-03, 8.4849005e+00]
+[2025-11-30 00:30:06,760][task][INFO][generic_smbo.py:295] Iter 14, objectives: [33.908103942871094].
+ 14%|█▍        | 14/100 [5:21:59<34:41:52, 1452.47s/it]Iter 0/300, Best Score: 93.089363, Time: 6.92 s
+Iter 20/300, Best Score: 22.957586, Time: 143.99 s
+Iter 40/300, Best Score: 22.957586, Time: 280.17 s
+Iter 60/300, Best Score: 19.032883, Time: 418.66 s
+Iter 80/300, Best Score: 14.348743, Time: 561.12 s
+Iter 100/300, Best Score: 10.964264, Time: 705.08 s
+Iter 120/300, Best Score: 10.964264, Time: 880.33 s
+Iter 140/300, Best Score: 10.361447, Time: 1047.86 s
+Iter 160/300, Best Score: 9.018845, Time: 1239.03 s
+Iter 180/300, Best Score: 9.018845, Time: 1385.77 s
+Iter 200/300, Best Score: 8.468506, Time: 1531.04 s
+Iter 220/300, Best Score: 8.468506, Time: 1710.94 s
+Iter 240/300, Best Score: 8.468506, Time: 1858.21 s
+Iter 260/300, Best Score: 7.286151, Time: 2031.08 s
+Iter 280/300, Best Score: 7.110584, Time: 2231.72 s
+score： tensor(6.7871)
+Time taken: 2419.78 seconds
+[ 2.0222011e+00,-1.6124601e+00,-2.0161481e+00, 2.4422625e-01,
+  1.2526598e+00, 5.9150729e+00,-1.1442161e+00,-8.0961955e-01,
+ -1.6604258e+00, 7.5502872e-01, 8.5744617e-04, 9.9941549e+00]
+[2025-11-30 01:10:26,761][task][INFO][generic_smbo.py:295] Iter 15, objectives: [6.787099361419678].
+ 15%|█▌        | 15/100 [6:02:19<41:10:49, 1744.12s/it]Iter 0/300, Best Score: 92.511894, Time: 10.67 s
+Iter 20/300, Best Score: 26.454720, Time: 156.24 s
+Iter 40/300, Best Score: 13.578138, Time: 332.75 s
+Iter 60/300, Best Score: 13.246115, Time: 487.25 s
+Iter 80/300, Best Score: 13.194031, Time: 649.08 s
+Iter 100/300, Best Score: 13.187982, Time: 814.52 s
+Iter 120/300, Best Score: 13.140731, Time: 1023.55 s
+Iter 140/300, Best Score: 13.118963, Time: 1198.90 s
+Iter 160/300, Best Score: 13.118400, Time: 1397.51 s
+Iter 180/300, Best Score: 13.118337, Time: 1562.46 s
+[Early stop] Iter 200/300: best=13.118252, Time: 1739.83 s
+score： tensor(13.1183)
+Time taken: 1739.83 seconds
+[ 1.8681942e+00,-1.7524062e+00,-1.1385624e+00, 5.7991570e-01,
+  1.0641818e+00, 1.0972313e+01,-6.3421869e-01, 4.9333003e-01,
+  8.5777454e-02, 2.5854249e+00, 1.2874902e-03, 3.7164850e+00]
+[2025-11-30 01:39:26,813][task][INFO][generic_smbo.py:295] Iter 16, objectives: [13.11825180053711].
+ 16%|█▌        | 16/100 [6:31:20<40:40:03, 1742.89s/it]Iter 0/300, Best Score: 94.806244, Time: 6.88 s
+Iter 20/300, Best Score: 63.072903, Time: 172.44 s
+Iter 40/300, Best Score: 38.443424, Time: 325.78 s
+Iter 60/300, Best Score: 18.351896, Time: 478.23 s
+Iter 80/300, Best Score: 18.351896, Time: 650.19 s
+Iter 100/300, Best Score: 18.351896, Time: 802.96 s
+Iter 120/300, Best Score: 18.351896, Time: 989.23 s
+Iter 140/300, Best Score: 18.351896, Time: 1144.80 s
+Iter 160/300, Best Score: 18.351896, Time: 1291.24 s
+Iter 180/300, Best Score: 18.351896, Time: 1438.89 s
+[Early stop] Iter 200/300: best=18.351896, Time: 1611.28 s
+score： tensor(18.3519)
+Time taken: 1611.28 seconds
+[ 3.0758696e+00,-1.7573698e+00,-2.3911605e+00,-1.9347866e+00,
+  1.2069677e+00, 1.2974108e+01,-1.0103359e+00,-5.0000000e+00,
+  1.5773342e+00, 3.3843690e-01, 5.7475828e-04, 4.7588882e+00]
+[2025-11-30 02:06:18,233][task][INFO][generic_smbo.py:295] Iter 17, objectives: [18.351896286010742].
+ 17%|█▋        | 17/100 [6:58:11<39:16:18, 1703.36s/it]Iter 0/300, Best Score: 95.323341, Time: 6.77 s
+Iter 20/300, Best Score: 52.519329, Time: 175.48 s
+Iter 40/300, Best Score: 37.399212, Time: 344.65 s
+Iter 60/300, Best Score: 37.399212, Time: 485.28 s
+Iter 80/300, Best Score: 37.399212, Time: 657.56 s
+[Early stop] Iter 100/300: best=37.399212, Time: 792.96 s
+score： tensor(37.3992)
+Time taken: 792.97 seconds
+[ 8.9676094e-01,-4.0000000e+00,-1.6178583e+00,-1.2861362e+00,
+  5.0755650e-01, 1.0799999e+01,-1.3256443e-01,-2.9815626e+00,
+ -1.4786949e+00, 9.7491379e+00, 4.0122145e-03, 8.7133608e+00]
+[2025-11-30 02:19:31,326][task][INFO][generic_smbo.py:295] Iter 18, objectives: [37.39921188354492].
+ 18%|█▊        | 18/100 [7:11:24<32:34:06, 1429.83s/it]Iter 0/300, Best Score: 92.978409, Time: 6.99 s
+Iter 20/300, Best Score: 48.839176, Time: 171.82 s
+Iter 40/300, Best Score: 48.839176, Time: 370.67 s
+Iter 60/300, Best Score: 48.839176, Time: 556.21 s
+Iter 80/300, Best Score: 37.512043, Time: 701.37 s
+[Early stop] Iter 100/300: best=30.430868, Time: 833.06 s
+score： tensor(30.4309)
+Time taken: 833.06 seconds
+[ 2.8676040e+00,-3.4407921e+00,-1.1800667e+00,-1.0000000e+00,
+  1.1217448e+00, 7.5798607e+00,-2.4903917e-01,-1.6558490e+00,
+ -1.3009467e+00, 4.5827265e+00, 2.1953073e-03, 6.7055554e+00]
+[2025-11-30 02:33:24,527][task][INFO][generic_smbo.py:295] Iter 19, objectives: [30.43086814880371].
+ 19%|█▉        | 19/100 [7:25:17<28:08:21, 1250.64s/it]Iter 0/300, Best Score: 83.298134, Time: 6.87 s
+Iter 20/300, Best Score: 27.852722, Time: 146.76 s
+Iter 40/300, Best Score: 14.435675, Time: 291.74 s
+Iter 60/300, Best Score: 10.097593, Time: 505.03 s
+Iter 80/300, Best Score: 8.052739, Time: 708.41 s
+Iter 100/300, Best Score: 7.088892, Time: 931.44 s
+Iter 120/300, Best Score: 7.088892, Time: 1085.12 s
+Iter 140/300, Best Score: 6.570824, Time: 1289.07 s
+Iter 160/300, Best Score: 6.570824, Time: 1443.89 s
+Iter 180/300, Best Score: 6.570824, Time: 1645.72 s
+Iter 200/300, Best Score: 6.193558, Time: 1800.88 s
+Iter 220/300, Best Score: 6.193558, Time: 1955.56 s
+Iter 240/300, Best Score: 6.193558, Time: 2142.70 s
+Iter 260/300, Best Score: 6.193558, Time: 2348.39 s
+Iter 280/300, Best Score: 5.927059, Time: 2536.79 s
+score： tensor(5.9271)
+Time taken: 2717.03 seconds
+[ 2.9983947e-01,-1.0000000e+00,-4.4361267e+00, 4.9999781e+00,
+  1.0000000e-01, 1.5000000e+01,-1.3037148e+00, 4.9986215e+00,
+ -9.5282793e-01, 9.7415459e-01, 1.4814135e-03, 1.0000000e+01]
+[2025-11-30 03:18:41,668][task][INFO][generic_smbo.py:295] Iter 20, objectives: [5.927058696746826].
+ 20%|██        | 20/100 [8:10:34<37:34:35, 1690.94s/it]Iter 0/300, Best Score: 94.258369, Time: 6.85 s
+Iter 20/300, Best Score: 68.930054, Time: 154.65 s
+Iter 40/300, Best Score: 32.534817, Time: 353.31 s
+Iter 60/300, Best Score: 20.471966, Time: 581.94 s
+Iter 80/300, Best Score: 17.325588, Time: 799.71 s
+Iter 100/300, Best Score: 15.123787, Time: 964.48 s
+Iter 120/300, Best Score: 13.313882, Time: 1173.25 s
+Iter 140/300, Best Score: 12.945307, Time: 1348.16 s
+Iter 160/300, Best Score: 12.906585, Time: 1550.11 s
+Iter 180/300, Best Score: 12.886672, Time: 1754.53 s
+[Early stop] Iter 200/300: best=12.886291, Time: 1995.07 s
+score： tensor(12.8863)
+Time taken: 1995.07 seconds
+[ 1.8742833e+00,-1.3529967e+00,-2.5428915e+00,-1.6110655e+00,
+  9.4514793e-01, 2.6212945e+00,-1.9141402e+00,-2.0785193e+00,
+  3.5723417e+00, 2.3368483e+00, 7.9167914e-04, 1.9109254e+00]
+[2025-11-30 03:51:56,863][task][INFO][generic_smbo.py:295] Iter 21, objectives: [12.886290550231934].
+ 21%|██        | 21/100 [8:43:50<39:06:39, 1782.27s/it]Iter 0/300, Best Score: 87.010284, Time: 10.75 s
+Iter 20/300, Best Score: 35.747627, Time: 188.50 s
+Iter 40/300, Best Score: 33.246250, Time: 336.05 s
+Iter 60/300, Best Score: 22.746660, Time: 500.99 s
+Iter 80/300, Best Score: 20.426212, Time: 722.91 s
+[Early stop] Iter 100/300: best=20.426212, Time: 919.47 s
+score： tensor(20.4262)
+Time taken: 919.48 seconds
+[ 1.6068954e+00,-2.6267145e+00,-3.0262442e+00, 1.0386798e+00,
+  6.6398728e-01, 1.2933426e+01,-1.6402307e+00,-2.5408483e-01,
+  8.3984876e-01, 1.3056107e+00, 1.1472612e-03, 5.8988314e+00]
+[2025-11-30 04:07:16,595][task][INFO][generic_smbo.py:295] Iter 22, objectives: [20.426212310791016].
+ 22%|██▏       | 22/100 [8:59:09<33:00:25, 1523.41s/it]Iter 0/300, Best Score: 93.221626, Time: 6.86 s
+Iter 20/300, Best Score: 38.952106, Time: 145.57 s
+Iter 40/300, Best Score: 36.056873, Time: 321.83 s
+Iter 60/300, Best Score: 29.799135, Time: 472.85 s
+Iter 80/300, Best Score: 29.656052, Time: 658.65 s
+[Early stop] Iter 100/300: best=29.539621, Time: 820.54 s
+score： tensor(29.5396)
+Time taken: 820.54 seconds
+[ 3.1874669e+00,-2.5256662e+00,-2.0807762e+00,-2.9183822e+00,
+  8.1345105e-01, 1.1625985e+01,-1.8107613e+00,-2.0775442e+00,
+ -2.6524922e-01, 5.0107579e+00, 3.0673631e-03, 5.8849702e+00]
+[2025-11-30 04:20:57,267][task][INFO][generic_smbo.py:295] Iter 23, objectives: [29.539621353149414].
+ 23%|██▎       | 23/100 [9:12:50<28:04:24, 1312.53s/it]Iter 0/300, Best Score: 87.014885, Time: 6.85 s
+Iter 20/300, Best Score: 23.849850, Time: 147.52 s
+Iter 40/300, Best Score: 14.589726, Time: 292.10 s
+Iter 60/300, Best Score: 7.933087, Time: 445.03 s
+Iter 80/300, Best Score: 3.026886, Time: 667.00 s
+Iter 100/300, Best Score: 2.652567, Time: 877.43 s
+Iter 120/300, Best Score: 2.459843, Time: 1078.36 s
+Iter 140/300, Best Score: 2.379848, Time: 1290.98 s
+Iter 160/300, Best Score: 2.373147, Time: 1486.33 s
+Iter 180/300, Best Score: 2.290452, Time: 1720.37 s
+Iter 200/300, Best Score: 2.271978, Time: 1928.48 s
+Iter 220/300, Best Score: 2.196680, Time: 2092.63 s
+Iter 240/300, Best Score: 2.165432, Time: 2260.16 s
+Iter 260/300, Best Score: 2.077972, Time: 2439.12 s
+Iter 280/300, Best Score: 2.060234, Time: 2659.63 s
+score： tensor(2.0214)
+Time taken: 2832.47 seconds
+[ 1.5536528e+00,-2.0773520e+00,-3.5549018e+00, 1.4955231e+00,
+  8.9666665e-01, 2.7543714e+00,-1.9900985e+00,-2.5726984e+00,
+ -3.1647766e+00, 4.3488628e-01, 5.3019734e-04, 7.6837988e+00]
+[2025-11-30 05:08:09,876][task][INFO][generic_smbo.py:295] Iter 24, objectives: [2.021392345428467].
+ 24%|██▍       | 24/100 [10:00:03<37:20:16, 1768.64s/it]Iter 0/300, Best Score: 74.686317, Time: 6.79 s
+Iter 20/300, Best Score: 48.144962, Time: 190.28 s
+Iter 40/300, Best Score: 39.476353, Time: 385.37 s
+Iter 60/300, Best Score: 32.251217, Time: 551.63 s
+Iter 80/300, Best Score: 32.251217, Time: 735.78 s
+[Early stop] Iter 100/300: best=30.075552, Time: 882.72 s
+score： tensor(30.0756)
+Time taken: 882.72 seconds
+[ 3.4741008e-01,-3.6403646e+00,-3.7364588e+00, 3.1297016e+00,
+  1.0000000e-01, 1.3294734e+01,-1.3607881e+00, 3.7782853e+00,
+ -1.1084365e+00, 1.0000000e+01, 4.0435549e-03, 1.0000000e+01]
+[2025-11-30 05:22:52,749][task][INFO][generic_smbo.py:295] Iter 25, objectives: [30.075551986694336].
+ 25%|██▌       | 25/100 [10:14:45<31:18:35, 1502.87s/it]Iter 0/300, Best Score: 97.401009, Time: 6.82 s
+Iter 20/300, Best Score: 81.812675, Time: 211.07 s
+Iter 40/300, Best Score: 80.656570, Time: 443.87 s
+Iter 60/300, Best Score: 80.656570, Time: 704.16 s
+Iter 80/300, Best Score: 80.653023, Time: 903.73 s
+[Early stop] Iter 100/300: best=80.564217, Time: 1121.04 s
+score： tensor(80.5642)
+Time taken: 1121.04 seconds
+[ 1.6765712e+00,-2.4802871e+00,-3.8360333e+00, 1.5795102e+00,
+  3.0392838e+00, 5.9137206e+00, 1.1482152e+00,-2.3457325e+00,
+  2.1826832e+00, 1.0000000e-01, 3.1657299e-04, 8.3439982e-01]
+[2025-11-30 05:41:33,945][task][INFO][generic_smbo.py:295] Iter 26, objectives: [80.56421661376953].
+ 26%|██▌       | 26/100 [10:33:27<28:32:18, 1388.36s/it]Iter 0/300, Best Score: 98.059189, Time: 6.59 s
+Iter 20/300, Best Score: 61.575230, Time: 188.90 s
+Iter 40/300, Best Score: 40.789314, Time: 328.46 s
+Iter 60/300, Best Score: 40.789314, Time: 500.54 s
+Iter 80/300, Best Score: 34.818943, Time: 643.19 s
+[Early stop] Iter 100/300: best=34.818943, Time: 808.99 s
+score： tensor(34.8189)
+Time taken: 809.00 seconds
+[ 2.6227498e+00,-4.0000000e+00,-5.0000000e+00,-5.0000000e+00,
+  1.0000000e-01, 1.5000000e+01,-5.0000000e+00,-3.7386785e+00,
+ -2.8157966e+00, 1.0000000e-01, 8.8095973e-04, 9.5215378e+00]
+[2025-11-30 05:55:03,066][task][INFO][generic_smbo.py:295] Iter 27, objectives: [34.81894302368164].
+ 27%|██▋       | 27/100 [10:46:56<24:37:44, 1214.58s/it]Iter 0/300, Best Score: 92.614769, Time: 9.40 s
+Iter 20/300, Best Score: 33.075550, Time: 200.87 s
+Iter 40/300, Best Score: 23.433336, Time: 382.94 s
+Iter 60/300, Best Score: 22.139631, Time: 541.43 s
+Iter 80/300, Best Score: 15.517237, Time: 737.88 s
+Iter 100/300, Best Score: 14.057449, Time: 946.76 s
+Iter 120/300, Best Score: 13.679117, Time: 1157.44 s
+Iter 140/300, Best Score: 13.560581, Time: 1321.53 s
+Iter 160/300, Best Score: 13.530222, Time: 1510.01 s
+Iter 180/300, Best Score: 13.506783, Time: 1715.85 s
+[Early stop] Iter 200/300: best=13.501694, Time: 1927.94 s
+score： tensor(13.5017)
+Time taken: 1927.94 seconds
+[ 1.9114907e+00,-1.7724029e+00,-1.3498333e+00, 5.1964456e-01,
+  1.6701331e+00, 1.4925104e+01,-1.2642835e+00, 1.6484416e+00,
+  6.4669484e-01, 4.4851856e+00, 1.9927870e-03, 9.6220808e+00]
+[2025-11-30 06:27:11,167][task][INFO][generic_smbo.py:295] Iter 28, objectives: [13.501693725585938].
+ 28%|██▊       | 28/100 [11:19:04<28:34:22, 1428.64s/it]Iter 0/300, Best Score: 94.241219, Time: 6.87 s
+Iter 20/300, Best Score: 31.805260, Time: 149.41 s
+Iter 40/300, Best Score: 30.442352, Time: 343.56 s
+Iter 60/300, Best Score: 30.281378, Time: 522.71 s
+Iter 80/300, Best Score: 30.281176, Time: 719.78 s
+[Early stop] Iter 100/300: best=30.273125, Time: 863.11 s
+score： tensor(30.2731)
+Time taken: 863.11 seconds
+[ 2.8345602e+00,-2.7043951e+00,-1.0716320e+00,-7.1483022e-01,
+  2.3589087e+00, 1.0818162e+01,-1.1550649e+00, 3.3907467e-01,
+ -8.3681893e-01, 7.1300917e+00, 3.1148482e-03, 6.7426381e+00]
+[2025-11-30 06:41:34,439][task][INFO][generic_smbo.py:295] Iter 29, objectives: [30.27312469482422].
+ 29%|██▉       | 29/100 [11:33:27<24:49:50, 1259.03s/it]Iter 0/300, Best Score: 91.114090, Time: 6.73 s
+Iter 20/300, Best Score: 18.548809, Time: 190.57 s
+Iter 40/300, Best Score: 15.116309, Time: 370.05 s
+Iter 60/300, Best Score: 13.324947, Time: 551.47 s
+Iter 80/300, Best Score: 11.799404, Time: 708.71 s
+Iter 100/300, Best Score: 11.470821, Time: 913.36 s
+Iter 120/300, Best Score: 10.496564, Time: 1176.67 s
+Iter 140/300, Best Score: 10.022472, Time: 1346.22 s
+Iter 160/300, Best Score: 8.711279, Time: 1537.88 s
+Iter 180/300, Best Score: 8.287501, Time: 1764.29 s
+Iter 200/300, Best Score: 8.244630, Time: 1987.18 s
+Iter 220/300, Best Score: 8.244630, Time: 2202.54 s
+Iter 240/300, Best Score: 8.244630, Time: 2405.29 s
+Iter 260/300, Best Score: 8.058988, Time: 2575.14 s
+Iter 280/300, Best Score: 7.937442, Time: 2787.44 s
+score： tensor(7.9351)
+Time taken: 3001.46 seconds
+[ 1.8712280e+00,-1.3116989e+00,-1.8280225e+00, 4.9998331e+00,
+  1.3611265e+00, 4.7158217e+00,-1.3183099e+00, 5.0000000e+00,
+  5.4416448e-01, 1.4176141e+00, 9.9728396e-04, 9.2409010e+00]
+[2025-11-30 07:31:36,033][task][INFO][generic_smbo.py:295] Iter 30, objectives: [7.935111045837402].
+ 30%|███       | 30/100 [12:23:29<34:38:46, 1781.81s/it]Iter 0/300, Best Score: 80.903450, Time: 10.53 s
+Iter 20/300, Best Score: 28.440636, Time: 218.72 s
+Iter 40/300, Best Score: 19.737549, Time: 418.55 s
+Iter 60/300, Best Score: 16.783365, Time: 607.49 s
+Iter 80/300, Best Score: 16.140934, Time: 763.35 s
+Iter 100/300, Best Score: 15.660361, Time: 922.75 s
+Iter 120/300, Best Score: 15.511981, Time: 1115.98 s
+Iter 140/300, Best Score: 15.465822, Time: 1311.64 s
+Iter 160/300, Best Score: 15.449049, Time: 1476.17 s
+Iter 180/300, Best Score: 15.405176, Time: 1672.77 s
+[Early stop] Iter 200/300: best=15.397889, Time: 1860.14 s
+score： tensor(15.3979)
+Time taken: 1860.15 seconds
+[ 1.8506298e+00,-2.0399613e+00,-1.4673784e+00,-3.1782355e+00,
+  1.4298382e+00, 7.3150845e+00,-1.0793589e+00,-3.1942019e+00,
+  2.0275820e-02, 6.3366508e+00, 1.8066673e-03, 7.4684677e+00]
+[2025-11-30 08:02:36,430][task][INFO][generic_smbo.py:295] Iter 31, objectives: [15.397889137268066].
+ 31%|███       | 31/100 [12:54:29<34:36:11, 1805.39s/it]Iter 0/300, Best Score: 98.799118, Time: 10.41 s
+Iter 20/300, Best Score: 36.173321, Time: 179.62 s
+Iter 40/300, Best Score: 23.608732, Time: 363.71 s
+Iter 60/300, Best Score: 20.611628, Time: 520.74 s
+Iter 80/300, Best Score: 15.325511, Time: 731.58 s
+Iter 100/300, Best Score: 14.574244, Time: 901.45 s
+Iter 120/300, Best Score: 14.438359, Time: 1124.79 s
+Iter 140/300, Best Score: 14.380915, Time: 1357.90 s
+Iter 160/300, Best Score: 14.346267, Time: 1528.60 s
+Iter 180/300, Best Score: 14.338496, Time: 1696.22 s
+[Early stop] Iter 200/300: best=14.328698, Time: 1857.65 s
+score： tensor(14.3287)
+Time taken: 1857.65 seconds
+[ 3.1996052e+00,-2.1818018e+00,-1.4681854e+00, 1.6971070e+00,
+  1.3638055e+00, 1.0416786e+01,-4.5985857e-01, 5.0945520e-01,
+  7.6084131e-01, 2.0250268e+00, 1.4892283e-03, 8.3584185e+00]
+[2025-11-30 08:33:34,335][task][INFO][generic_smbo.py:295] Iter 32, objectives: [14.32869815826416].
+ 32%|███▏      | 32/100 [13:25:27<34:23:57, 1821.14s/it]Iter 0/300, Best Score: 100.868042, Time: 6.75 s
+Iter 20/300, Best Score: 36.917122, Time: 181.82 s
+Iter 40/300, Best Score: 19.256386, Time: 381.67 s
+Iter 60/300, Best Score: 13.130380, Time: 594.42 s
+Iter 80/300, Best Score: 10.582027, Time: 808.93 s
+Iter 100/300, Best Score: 10.283411, Time: 989.06 s
+Iter 120/300, Best Score: 10.088341, Time: 1160.28 s
+Iter 140/300, Best Score: 9.835007, Time: 1404.37 s
+Iter 160/300, Best Score: 9.240684, Time: 1621.56 s
+Iter 180/300, Best Score: 7.339912, Time: 1816.54 s
+Iter 200/300, Best Score: 7.046359, Time: 1980.90 s
+Iter 220/300, Best Score: 7.000808, Time: 2145.54 s
+Iter 240/300, Best Score: 6.963802, Time: 2311.18 s
+Iter 260/300, Best Score: 6.929369, Time: 2477.81 s
+Iter 280/300, Best Score: 6.858267, Time: 2652.48 s
+score： tensor(6.8116)
+Time taken: 2812.21 seconds
+[ 1.1052768e+00,-1.8435923e+00,-2.2858875e+00,-1.0853044e+00,
+  5.4209763e-01, 1.3228125e+01,-5.7700980e-01,-3.1485977e+00,
+ -2.1664029e-01, 1.1655885e+00, 1.0841395e-03, 7.3306026e+00]
+[2025-11-30 09:20:26,696][task][INFO][generic_smbo.py:295] Iter 33, objectives: [6.811594486236572].
+ 33%|███▎      | 33/100 [14:12:19<39:25:40, 2118.51s/it]Iter 0/300, Best Score: 95.597244, Time: 6.79 s
+Iter 20/300, Best Score: 37.859734, Time: 177.12 s
+Iter 40/300, Best Score: 23.907396, Time: 372.79 s
+Iter 60/300, Best Score: 22.752916, Time: 546.21 s
+Iter 80/300, Best Score: 17.831072, Time: 756.40 s
+Iter 100/300, Best Score: 15.713888, Time: 966.99 s
+Iter 120/300, Best Score: 12.857771, Time: 1187.79 s
+Iter 140/300, Best Score: 12.722317, Time: 1350.13 s
+Iter 160/300, Best Score: 12.667101, Time: 1537.09 s
+Iter 180/300, Best Score: 12.622549, Time: 1700.27 s
+[Early stop] Iter 200/300: best=12.256578, Time: 1860.93 s
+score： tensor(12.2566)
+Time taken: 1860.93 seconds
+[ 3.2408011e+00,-3.1624770e+00,-1.5638689e+00, 1.8946130e+00,
+  1.3901298e+00, 7.8126540e+00,-4.4475260e-01,-4.7721958e-01,
+  1.8211421e-01, 2.0356207e+00, 1.0859896e-03, 4.6734991e+00]
+[2025-11-30 09:51:27,795][task][INFO][generic_smbo.py:295] Iter 34, objectives: [12.25657844543457].
+ 34%|███▍      | 34/100 [14:43:20<37:25:24, 2041.29s/it][2025-11-30 09:51:27,798][task][INFO][generic_advisor.py:365] Sample random config. rand_prob=0.100000.
+Iter 0/300, Best Score: 90.365356, Time: 6.87 s
+Iter 20/300, Best Score: 36.521969, Time: 188.64 s
+Iter 40/300, Best Score: 30.666813, Time: 377.72 s
+Iter 60/300, Best Score: 30.666813, Time: 550.63 s
+Iter 80/300, Best Score: 30.666813, Time: 684.64 s
+[Early stop] Iter 100/300: best=21.778168, Time: 823.90 s
+score： tensor(21.7782)
+Time taken: 823.91 seconds
+[ 1.2573895e+00,-2.6416540e+00,-2.4599850e+00,-7.1328562e-01,
+  1.0834991e+00, 3.5691111e+00,-2.2517059e+00,-1.3294220e-01,
+ -1.4303401e+00, 5.1558838e+00, 1.2640429e-03, 7.5987091e+00]
+[2025-11-30 10:05:11,704][task][INFO][generic_smbo.py:295] Iter 35, objectives: [21.778167724609375].
+ 35%|███▌      | 35/100 [14:57:04<30:15:44, 1676.07s/it]Iter 0/300, Best Score: 96.463043, Time: 6.87 s
+Iter 20/300, Best Score: 29.480833, Time: 181.21 s
+Iter 40/300, Best Score: 24.375793, Time: 377.74 s
+Iter 60/300, Best Score: 21.050455, Time: 563.05 s
+Iter 80/300, Best Score: 20.936703, Time: 723.47 s
+[Early stop] Iter 100/300: best=20.836334, Time: 876.64 s
+score： tensor(20.8363)
+Time taken: 876.65 seconds
+[ 1.4182979e+00,-1.6552109e+00,-1.8103584e+00,-1.3522305e+00,
+  4.4230410e-01, 7.7332926e+00,-3.8771009e-01,-1.1945031e+00,
+ -1.0942138e+00, 6.2678790e+00, 2.6753740e-03, 9.7509537e+00]
+[2025-11-30 10:19:48,506][task][INFO][generic_smbo.py:295] Iter 36, objectives: [20.836334228515625].
+ 36%|███▌      | 36/100 [15:11:41<25:32:02, 1436.29s/it]Iter 0/300, Best Score: 88.771431, Time: 6.78 s
+Iter 20/300, Best Score: 22.072226, Time: 187.46 s
+Iter 40/300, Best Score: 15.871356, Time: 366.00 s
+Iter 60/300, Best Score: 14.627088, Time: 565.68 s
+Iter 80/300, Best Score: 13.680449, Time: 770.40 s
+Iter 100/300, Best Score: 12.689966, Time: 927.75 s
+Iter 120/300, Best Score: 12.382219, Time: 1094.20 s
+Iter 140/300, Best Score: 12.355124, Time: 1318.80 s
+Iter 160/300, Best Score: 11.579654, Time: 1564.05 s
+Iter 180/300, Best Score: 10.324059, Time: 1761.92 s
+Iter 200/300, Best Score: 9.811252, Time: 1924.40 s
+Iter 220/300, Best Score: 9.595062, Time: 2118.43 s
+Iter 240/300, Best Score: 9.330643, Time: 2307.44 s
+Iter 260/300, Best Score: 9.225505, Time: 2470.86 s
+Iter 280/300, Best Score: 9.170436, Time: 2669.71 s
+score： tensor(7.4384)
+Time taken: 2903.34 seconds
+[ 1.8991904e+00,-3.1123326e+00,-2.0240405e+00, 1.1940167e+00,
+  1.1196837e+00, 1.0422803e+01,-1.0503660e+00,-8.9398786e-02,
+ -8.2528347e-01, 8.6358839e-01, 1.0189139e-03, 9.1477232e+00]
+[2025-11-30 11:08:11,974][task][INFO][generic_smbo.py:295] Iter 37, objectives: [7.438395977020264].
+ 37%|███▋      | 37/100 [16:00:05<32:50:16, 1876.44s/it]Iter 0/300, Best Score: 98.998268, Time: 10.73 s
+Iter 20/300, Best Score: 33.536236, Time: 164.22 s
+Iter 40/300, Best Score: 32.492729, Time: 312.41 s
+Iter 60/300, Best Score: 30.093893, Time: 465.15 s
+Iter 80/300, Best Score: 29.999874, Time: 625.88 s
+[Early stop] Iter 100/300: best=29.847595, Time: 811.95 s
+score： tensor(29.8476)
+Time taken: 811.95 seconds
+[ 3.9011798e+00,-1.8611182e+00,-1.1725997e+00, 1.5189182e+00,
+  1.0000000e-01, 1.2255848e+01, 1.9567430e+00, 1.5230293e+00,
+ -6.1532152e-01, 6.3222899e+00, 4.2254697e-03, 6.4638791e+00]
+[2025-11-30 11:21:44,216][task][INFO][generic_smbo.py:295] Iter 38, objectives: [29.84759521484375].
+ 38%|███▊      | 38/100 [16:13:37<26:49:05, 1557.18s/it]Iter 0/300, Best Score: 98.751366, Time: 10.26 s
+Iter 20/300, Best Score: 51.172417, Time: 170.72 s
+Iter 40/300, Best Score: 36.167122, Time: 312.50 s
+Iter 60/300, Best Score: 28.960186, Time: 467.70 s
+Iter 80/300, Best Score: 28.960186, Time: 674.10 s
+[Early stop] Iter 100/300: best=21.875889, Time: 888.83 s
+score： tensor(21.8759)
+Time taken: 888.83 seconds
+[ 7.3157018e-01,-2.8882420e+00,-2.0099866e+00, 4.6530929e+00,
+  2.1878920e-01, 1.3845593e+01, 2.9131658e+00,-1.9991167e+00,
+ -7.5186747e-01, 2.7446098e+00, 2.0994432e-03, 6.9777718e+00]
+[2025-11-30 11:36:33,206][task][INFO][generic_smbo.py:295] Iter 39, objectives: [21.87588882446289].
+ 39%|███▉      | 39/100 [16:28:26<22:59:20, 1356.73s/it]Iter 0/300, Best Score: 82.692398, Time: 10.49 s
+Iter 20/300, Best Score: 15.755965, Time: 153.17 s
+Iter 40/300, Best Score: 10.184017, Time: 295.10 s
+Iter 60/300, Best Score: 9.207132, Time: 439.73 s
+Iter 80/300, Best Score: 9.207132, Time: 586.10 s
+Iter 100/300, Best Score: 7.450793, Time: 731.78 s
+Iter 120/300, Best Score: 7.191420, Time: 878.98 s
+Iter 140/300, Best Score: 7.191420, Time: 1059.89 s
+Iter 160/300, Best Score: 6.314519, Time: 1237.73 s
+Iter 180/300, Best Score: 6.314519, Time: 1407.37 s
+Iter 200/300, Best Score: 6.239083, Time: 1585.61 s
+Iter 220/300, Best Score: 4.945477, Time: 1791.18 s
+Iter 240/300, Best Score: 4.723633, Time: 1962.73 s
+Iter 260/300, Best Score: 4.058303, Time: 2163.42 s
+Iter 280/300, Best Score: 3.932974, Time: 2323.53 s
+score： tensor(3.4565)
+Time taken: 2509.95 seconds
+[ 1.6698753e+00,-3.9458654e+00,-5.0000000e+00,-1.8414751e+00,
+  7.4344110e-01, 1.2658871e+01,-3.5935273e+00,-3.0102670e+00,
+ -1.5184321e+00, 1.0434849e-01, 4.3770167e-04, 9.9853411e+00]
+[2025-11-30 12:18:23,443][task][INFO][generic_smbo.py:295] Iter 40, objectives: [3.4564545154571533].
+ 40%|████      | 40/100 [17:10:16<28:22:46, 1702.78s/it]Iter 0/300, Best Score: 91.864578, Time: 6.89 s
+Iter 20/300, Best Score: 25.643808, Time: 159.45 s
+Iter 40/300, Best Score: 17.598249, Time: 305.88 s
+Iter 60/300, Best Score: 8.309454, Time: 454.74 s
+Iter 80/300, Best Score: 6.544271, Time: 639.34 s
+Iter 100/300, Best Score: 6.223184, Time: 816.90 s
+Iter 120/300, Best Score: 6.134109, Time: 1042.90 s
+Iter 140/300, Best Score: 6.010870, Time: 1260.16 s
+Iter 160/300, Best Score: 5.963629, Time: 1427.57 s
+Iter 180/300, Best Score: 5.960045, Time: 1633.94 s
+Iter 200/300, Best Score: 5.956394, Time: 1831.26 s
+Iter 220/300, Best Score: 5.955968, Time: 2060.08 s
+Iter 240/300, Best Score: 5.951416, Time: 2292.97 s
+Iter 260/300, Best Score: 5.949476, Time: 2511.58 s
+Iter 280/300, Best Score: 5.948291, Time: 2680.92 s
+score： tensor(5.9481)
+Time taken: 2842.12 seconds
+[ 2.5426042e-01,-1.0024011e+00,-3.5479310e+00, 3.1812482e+00,
+  1.8607824e-01, 9.8869495e+00,-3.3405178e+00, 3.9798882e+00,
+ -5.2264470e-01, 2.4522386e+00, 1.6103610e-03, 5.6044393e+00]
+[2025-11-30 13:05:45,718][task][INFO][generic_smbo.py:295] Iter 41, objectives: [5.948098659515381].
+ 41%|████      | 41/100 [17:57:38<33:30:33, 2044.63s/it]Iter 0/300, Best Score: 80.407578, Time: 6.75 s
+Iter 20/300, Best Score: 30.506823, Time: 148.70 s
+Iter 40/300, Best Score: 18.052738, Time: 349.79 s
+Iter 60/300, Best Score: 15.948938, Time: 548.53 s
+Iter 80/300, Best Score: 14.503650, Time: 708.20 s
+Iter 100/300, Best Score: 13.676213, Time: 945.77 s
+Iter 120/300, Best Score: 13.527986, Time: 1153.05 s
+Iter 140/300, Best Score: 13.484375, Time: 1387.78 s
+Iter 160/300, Best Score: 13.480114, Time: 1628.04 s
+Iter 180/300, Best Score: 13.455260, Time: 1866.25 s
+[Early stop] Iter 200/300: best=13.451566, Time: 2088.23 s
+score： tensor(13.4516)
+Time taken: 2088.23 seconds
+[ 4.8885295e-01,-1.5175376e+00,-3.0305030e+00,-1.7747056e-01,
+  3.2302022e-01, 1.0136399e+01,-1.7145443e+00,-7.0608169e-01,
+ -3.7300742e-01, 5.8901625e+00, 2.3233849e-03, 9.2704592e+00]
+[2025-11-30 13:40:34,074][task][INFO][generic_smbo.py:295] Iter 42, objectives: [13.451565742492676].
+ 42%|████▏     | 42/100 [18:32:27<33:09:09, 2057.75s/it]Iter 0/300, Best Score: 98.038330, Time: 7.01 s
+Iter 20/300, Best Score: 49.177357, Time: 204.68 s
+Iter 40/300, Best Score: 23.712671, Time: 371.95 s
+Iter 60/300, Best Score: 21.402351, Time: 588.09 s
+Iter 80/300, Best Score: 20.966637, Time: 763.63 s
+Iter 100/300, Best Score: 19.418367, Time: 946.01 s
+Iter 120/300, Best Score: 16.389843, Time: 1129.29 s
+Iter 140/300, Best Score: 15.293909, Time: 1341.43 s
+Iter 160/300, Best Score: 14.777715, Time: 1548.07 s
+Iter 180/300, Best Score: 14.126351, Time: 1756.04 s
+[Early stop] Iter 200/300: best=14.021150, Time: 1937.63 s
+score： tensor(14.0211)
+Time taken: 1937.63 seconds
+[ 2.6517637e+00,-2.2184429e+00,-1.0475292e+00, 5.1681298e-01,
+  2.0553200e+00, 9.8204250e+00,-7.5775367e-01, 9.7744584e-01,
+ -7.8541869e-01, 2.5984511e+00, 1.7055409e-03, 9.7521982e+00]
+[2025-11-30 14:12:51,820][task][INFO][generic_smbo.py:295] Iter 43, objectives: [14.021149635314941].
+ 43%|████▎     | 43/100 [19:04:45<32:00:39, 2021.75s/it]Iter 0/300, Best Score: 101.341011, Time: 6.88 s
+Iter 20/300, Best Score: 77.088852, Time: 161.33 s
+Iter 40/300, Best Score: 71.142273, Time: 306.91 s
+Iter 60/300, Best Score: 70.360733, Time: 453.21 s
+Iter 80/300, Best Score: 69.660591, Time: 634.02 s
+[Early stop] Iter 100/300: best=67.601006, Time: 828.99 s
+score： tensor(67.6010)
+Time taken: 828.99 seconds
+[ 1.4680341e+00,-1.1128635e+00,-5.0000000e+00,-1.4823663e+00,
+  4.0000000e+00, 6.8069639e+00, 5.0000000e+00, 5.0000000e+00,
+ -9.2631769e-01, 1.0000000e-01, 2.1897972e-04, 7.2325182e-01]
+[2025-11-30 14:26:41,044][task][INFO][generic_smbo.py:295] Iter 44, objectives: [67.60100555419922].
+ 44%|████▍     | 44/100 [19:18:34<25:53:03, 1663.99s/it]Iter 0/300, Best Score: 97.379623, Time: 7.00 s
+Iter 20/300, Best Score: 38.615433, Time: 148.25 s
+Iter 40/300, Best Score: 32.328957, Time: 440.47 s
+Iter 60/300, Best Score: 18.229919, Time: 694.32 s
+Iter 80/300, Best Score: 17.062387, Time: 866.79 s
+Iter 100/300, Best Score: 17.062387, Time: 1094.25 s
+Iter 120/300, Best Score: 15.192070, Time: 1289.10 s
+Iter 140/300, Best Score: 15.192070, Time: 1488.17 s
+Iter 160/300, Best Score: 14.086854, Time: 1658.02 s
+Iter 180/300, Best Score: 13.772647, Time: 2041.12 s
+Iter 200/300, Best Score: 6.506884, Time: 2333.51 s
+Iter 220/300, Best Score: 5.791869, Time: 2613.68 s
+Iter 240/300, Best Score: 5.791869, Time: 2922.15 s
+Iter 260/300, Best Score: 5.359897, Time: 3148.67 s
+Iter 280/300, Best Score: 5.359897, Time: 3353.33 s
+score： tensor(4.3225)
+Time taken: 3640.56 seconds
+[ 2.5856626e+00,-2.0165064e+00,-2.3543663e+00, 1.6530170e+00,
+  1.2333577e+00, 8.3899450e+00,-5.5728942e-01,-4.9167256e+00,
+  1.0778173e+00, 3.4406930e-01, 5.8816274e-04, 7.1944885e+00]
+[2025-11-30 15:27:21,725][task][INFO][generic_smbo.py:295] Iter 45, objectives: [4.322543621063232].
+ 45%|████▌     | 45/100 [20:19:14<34:28:54, 2257.00s/it]Iter 0/300, Best Score: 92.129433, Time: 19.08 s
+Iter 20/300, Best Score: 73.279388, Time: 405.47 s
+Iter 40/300, Best Score: 59.459618, Time: 818.01 s
+Iter 60/300, Best Score: 59.355637, Time: 1038.35 s
+Iter 80/300, Best Score: 45.829124, Time: 1289.97 s
+[Early stop] Iter 100/300: best=38.002480, Time: 1559.49 s
+score： tensor(38.0025)
+Time taken: 1559.49 seconds
+[ 3.9005368e+00,-1.9231200e+00,-2.4089265e+00, 1.4514199e+00,
+  1.0000000e-01, 5.5707231e+00,-1.1905903e+00, 1.3200939e+00,
+ -3.7236762e-01, 2.0791149e+00, 1.8471288e-03, 1.4945808e-01]
+[2025-11-30 15:53:21,689][task][INFO][generic_smbo.py:295] Iter 46, objectives: [38.002479553222656].
+ 46%|████▌     | 46/100 [20:45:14<30:43:05, 2047.89s/it]Iter 0/300, Best Score: 71.343391, Time: 10.01 s
+Iter 20/300, Best Score: 23.823145, Time: 223.88 s
+Iter 40/300, Best Score: 15.462464, Time: 432.17 s
+Iter 60/300, Best Score: 13.281255, Time: 685.35 s
+Iter 80/300, Best Score: 12.912393, Time: 858.37 s
+Iter 100/300, Best Score: 12.763780, Time: 1031.42 s
+Iter 120/300, Best Score: 12.674199, Time: 1240.80 s
+Iter 140/300, Best Score: 12.587811, Time: 1487.40 s
+Iter 160/300, Best Score: 12.576767, Time: 1655.89 s
+Iter 180/300, Best Score: 12.543296, Time: 1907.36 s
+[Early stop] Iter 200/300: best=12.484521, Time: 2140.11 s
+score： tensor(12.4845)
+Time taken: 2140.11 seconds
+[ 2.1454740e+00,-1.5896871e+00,-1.2401785e+00, 4.0877776e+00,
+  8.6613613e-01, 9.1778994e+00, 1.0580655e+00,-2.5208375e+00,
+ -9.3964852e-02, 2.7642362e+00, 1.6049424e-03, 7.9916911e+00]
+[2025-11-30 16:29:02,065][task][INFO][generic_smbo.py:295] Iter 47, objectives: [12.48452091217041].
+ 47%|████▋     | 47/100 [21:20:55<30:33:28, 2075.63s/it]Iter 0/300, Best Score: 94.568108, Time: 19.16 s
+Iter 20/300, Best Score: 39.238255, Time: 196.06 s
+Iter 40/300, Best Score: 28.540916, Time: 390.30 s
+Iter 60/300, Best Score: 21.832020, Time: 548.15 s
+Iter 80/300, Best Score: 18.544628, Time: 702.06 s
+Iter 100/300, Best Score: 16.178677, Time: 905.83 s
+Iter 120/300, Best Score: 15.393064, Time: 1125.70 s
+Iter 140/300, Best Score: 15.093744, Time: 1361.38 s
+Iter 160/300, Best Score: 14.963864, Time: 1524.26 s
+Iter 180/300, Best Score: 14.848167, Time: 1723.04 s
+[Early stop] Iter 200/300: best=14.835210, Time: 1929.38 s
+score： tensor(14.8352)
+Time taken: 1929.40 seconds
+[ 3.6115795e-01,-1.6883841e+00,-2.7305186e+00, 3.3271465e-01,
+  2.3528843e-01, 1.5000000e+01,-1.4989482e+00, 1.6966084e-01,
+ -2.9968610e-01, 6.3799849e+00, 2.7193970e-03, 7.0583854e+00]
+[2025-11-30 17:01:11,860][task][INFO][generic_smbo.py:295] Iter 48, objectives: [14.835209846496582].
+ 48%|████▊     | 48/100 [21:53:05<29:20:57, 2031.88s/it]Iter 0/300, Best Score: 54.813683, Time: 6.87 s
+Iter 20/300, Best Score: 28.776001, Time: 161.63 s
+Iter 40/300, Best Score: 19.970188, Time: 356.87 s
+Iter 60/300, Best Score: 18.432835, Time: 545.59 s
+Iter 80/300, Best Score: 16.645048, Time: 749.89 s
+Iter 100/300, Best Score: 15.140075, Time: 975.41 s
+Iter 120/300, Best Score: 14.903253, Time: 1193.03 s
+Iter 140/300, Best Score: 14.665595, Time: 1360.10 s
+Iter 160/300, Best Score: 14.611668, Time: 1530.53 s
+Iter 180/300, Best Score: 14.602469, Time: 1709.88 s
+[Early stop] Iter 200/300: best=14.575006, Time: 1872.11 s
+score： tensor(14.5750)
+Time taken: 1872.11 seconds
+[ 7.6092184e-01,-2.1538229e+00,-2.2401083e+00, 1.7121620e+00,
+  2.7327532e-01, 6.7822266e+00, 1.4313788e+00,-3.5194519e+00,
+ -7.9277670e-01, 9.9819117e+00, 1.9537881e-03, 4.3127871e+00]
+[2025-11-30 17:32:24,090][task][INFO][generic_smbo.py:295] Iter 49, objectives: [14.575006484985352].
+ 49%|████▉     | 49/100 [22:24:17<28:06:23, 1983.99s/it][2025-11-30 17:32:24,093][task][INFO][generic_advisor.py:365] Sample random config. rand_prob=0.100000.
+Iter 0/300, Best Score: 75.029411, Time: 6.83 s
+Iter 20/300, Best Score: 26.528511, Time: 149.69 s
+Iter 40/300, Best Score: 21.994175, Time: 371.27 s
+Iter 60/300, Best Score: 19.798103, Time: 553.84 s
+Iter 80/300, Best Score: 18.134447, Time: 756.36 s
+Iter 100/300, Best Score: 16.850897, Time: 988.34 s
+Iter 120/300, Best Score: 16.137018, Time: 1166.38 s
+Iter 140/300, Best Score: 15.618657, Time: 1317.84 s
+Iter 160/300, Best Score: 15.541336, Time: 1471.20 s
+Iter 180/300, Best Score: 15.385068, Time: 1624.37 s
+[Early stop] Iter 200/300: best=15.238923, Time: 1771.72 s
+score： tensor(15.2389)
+Time taken: 1771.72 seconds
+[ 2.1088786e+00,-1.6121320e+00,-9.0385789e-01, 3.9636984e+00,
+  9.5276666e-01, 9.4324617e+00, 7.2947651e-01, 5.9904523e-02,
+ -3.4503311e-01, 6.3323617e+00, 2.2468367e-03, 5.9955692e+00]
+[2025-11-30 18:01:55,814][task][INFO][generic_smbo.py:295] Iter 50, objectives: [15.238923072814941].
+ 50%|█████     | 50/100 [22:53:49<26:40:15, 1920.31s/it]Iter 0/300, Best Score: 98.190147, Time: 6.45 s
+Iter 20/300, Best Score: 39.302425, Time: 137.90 s
+Iter 40/300, Best Score: 24.578440, Time: 273.37 s
+Iter 60/300, Best Score: 14.424545, Time: 412.21 s
+Iter 80/300, Best Score: 12.405356, Time: 553.24 s
+Iter 100/300, Best Score: 12.275125, Time: 693.56 s
+Iter 120/300, Best Score: 11.902287, Time: 836.03 s
+Iter 140/300, Best Score: 11.360269, Time: 979.97 s
+Iter 160/300, Best Score: 10.844206, Time: 1124.27 s
+Iter 180/300, Best Score: 10.844206, Time: 1268.06 s
+[Early stop] Iter 200/300: best=10.798433, Time: 1405.36 s
+score： tensor(10.7984)
+Time taken: 1405.36 seconds
+[ 2.0102408e+00,-1.7809103e+00,-1.6447588e+00, 1.1324089e+00,
+  1.7280576e+00, 1.0662177e+01,-1.5771443e+00, 2.4620309e+00,
+  1.0650649e+00, 2.5930548e+00, 1.4803821e-03, 9.8853111e+00]
+[2025-11-30 18:25:21,332][task][INFO][generic_smbo.py:295] Iter 51, objectives: [10.798433303833008].
+ 51%|█████     | 51/100 [23:17:14<24:02:07, 1765.87s/it]Iter 0/300, Best Score: 99.925461, Time: 6.44 s
+Iter 20/300, Best Score: 28.193243, Time: 143.05 s
+Iter 40/300, Best Score: 13.709188, Time: 291.05 s
+Iter 60/300, Best Score: 13.522107, Time: 445.39 s
+Iter 80/300, Best Score: 13.287004, Time: 602.11 s
+Iter 100/300, Best Score: 13.201578, Time: 760.34 s
+Iter 120/300, Best Score: 13.173578, Time: 919.20 s
+Iter 140/300, Best Score: 13.161339, Time: 1078.05 s
+Iter 160/300, Best Score: 13.147211, Time: 1237.11 s
+Iter 180/300, Best Score: 13.142907, Time: 1396.06 s
+[Early stop] Iter 200/300: best=13.137560, Time: 1546.96 s
+score： tensor(13.1376)
+Time taken: 1546.96 seconds
+[ 2.3017612e+00,-1.5607321e+00,-1.3412502e+00, 1.1794699e+00,
+  1.4143664e+00, 6.5758538e+00,-6.3479102e-01,-2.4719007e-02,
+  1.4548916e+00, 5.0426183e+00, 1.3951130e-03, 4.7968931e+00]
+[2025-11-30 18:51:08,517][task][INFO][generic_smbo.py:295] Iter 52, objectives: [13.13755989074707].
+ 52%|█████▏    | 52/100 [23:43:01<22:40:12, 1700.26s/it]Iter 0/300, Best Score: 94.214905, Time: 6.47 s
+Iter 20/300, Best Score: 27.652391, Time: 140.25 s
+Iter 40/300, Best Score: 18.675190, Time: 281.09 s
+Iter 60/300, Best Score: 17.673452, Time: 427.76 s
+Iter 80/300, Best Score: 16.175480, Time: 578.11 s
+Iter 100/300, Best Score: 15.949916, Time: 732.06 s
+Iter 120/300, Best Score: 15.947850, Time: 888.35 s
+Iter 140/300, Best Score: 15.929338, Time: 1047.79 s
+Iter 160/300, Best Score: 15.918576, Time: 1207.88 s
+Iter 180/300, Best Score: 15.914577, Time: 1432.04 s
+[Early stop] Iter 200/300: best=15.892897, Time: 1620.65 s
+score： tensor(15.8929)
+Time taken: 1620.66 seconds
+[ 2.0317495e+00,-1.4145136e+00,-8.5285461e-01, 4.6899409e+00,
+  1.5010186e+00, 8.6952505e+00,-4.9190277e-01, 4.7258458e+00,
+ -1.4589593e-01, 6.7936926e+00, 2.1753514e-03, 6.2730350e+00]
+[2025-11-30 19:18:09,282][task][INFO][generic_smbo.py:295] Iter 53, objectives: [15.89289665222168].
+ 53%|█████▎    | 53/100 [24:10:02<21:53:11, 1676.41s/it]Iter 0/300, Best Score: 92.524086, Time: 6.42 s
+Iter 20/300, Best Score: 22.307364, Time: 139.23 s
+Iter 40/300, Best Score: 10.312161, Time: 329.28 s
+Iter 60/300, Best Score: 9.256887, Time: 481.01 s
+Iter 80/300, Best Score: 8.274908, Time: 632.77 s
+Iter 100/300, Best Score: 6.736802, Time: 832.53 s
+Iter 120/300, Best Score: 6.415616, Time: 1052.14 s
+Iter 140/300, Best Score: 6.272033, Time: 1230.43 s
+Iter 160/300, Best Score: 6.259349, Time: 1394.10 s
+Iter 180/300, Best Score: 6.233951, Time: 1560.95 s
+Iter 200/300, Best Score: 6.222025, Time: 1783.99 s
+Iter 220/300, Best Score: 6.218687, Time: 1970.98 s
+Iter 240/300, Best Score: 6.217066, Time: 2138.84 s
+Iter 260/300, Best Score: 6.216108, Time: 2306.81 s
+Iter 280/300, Best Score: 6.214519, Time: 2476.35 s
+score： tensor(6.2117)
+Time taken: 2643.94 seconds
+[ 2.0859714e+00,-2.3705847e+00,-1.7692679e+00, 1.4327269e+00,
+  1.2419171e+00, 7.9839683e+00,-1.1489608e+00, 8.2744896e-01,
+ -1.5389736e-01, 8.1411386e-01, 7.2615134e-04, 3.9118991e+00]
+[2025-11-30 20:02:13,337][task][INFO][generic_smbo.py:295] Iter 54, objectives: [6.211670875549316].
+ 54%|█████▍    | 54/100 [24:54:06<25:07:48, 1966.71s/it]Iter 0/300, Best Score: 94.486687, Time: 6.90 s
+Iter 20/300, Best Score: 28.058882, Time: 152.31 s
+Iter 40/300, Best Score: 17.797899, Time: 302.57 s
+Iter 60/300, Best Score: 13.226918, Time: 459.94 s
+Iter 80/300, Best Score: 12.286123, Time: 618.15 s
+Iter 100/300, Best Score: 11.836547, Time: 797.40 s
+Iter 120/300, Best Score: 11.727715, Time: 983.70 s
+Iter 140/300, Best Score: 11.691625, Time: 1149.67 s
+Iter 160/300, Best Score: 11.663670, Time: 1314.40 s
+Iter 180/300, Best Score: 11.643096, Time: 1481.73 s
+[Early stop] Iter 200/300: best=11.627580, Time: 1639.31 s
+score： tensor(11.6276)
+Time taken: 1639.31 seconds
+[ 1.3205270e+00,-3.4829435e+00,-2.8220470e+00, 3.9484067e+00,
+  8.4747159e-01, 1.3045581e+01,-1.7269465e+00, 2.0524135e+00,
+  2.7275808e-02, 3.4678144e+00, 1.3232253e-03, 7.4981189e+00]
+[2025-11-30 20:29:32,791][task][INFO][generic_smbo.py:295] Iter 55, objectives: [11.627579689025879].
+ 55%|█████▌    | 55/100 [25:21:25<23:21:23, 1868.53s/it]Iter 0/300, Best Score: 102.294434, Time: 6.84 s
+Iter 20/300, Best Score: 47.220333, Time: 195.13 s
+Iter 40/300, Best Score: 37.387592, Time: 366.98 s
+Iter 60/300, Best Score: 30.206564, Time: 509.80 s
+Iter 80/300, Best Score: 28.359552, Time: 690.37 s
+[Early stop] Iter 100/300: best=27.856102, Time: 866.10 s
+score： tensor(27.8561)
+Time taken: 866.10 seconds
+[ 2.6355917e+00,-1.8455873e+00,-1.9368378e+00, 1.1285928e+00,
+  1.3569542e+00, 5.2716765e+00,-1.7730879e+00, 2.0034161e+00,
+ -1.0480005e+00, 2.9735410e+00, 2.0465674e-03, 6.1462851e+00]
+[2025-11-30 20:43:59,021][task][INFO][generic_smbo.py:295] Iter 56, objectives: [27.856101989746094].
+ 56%|█████▌    | 56/100 [25:35:52<19:09:45, 1567.84s/it]Iter 0/300, Best Score: 91.701302, Time: 10.61 s
+Iter 20/300, Best Score: 40.368900, Time: 197.03 s
+Iter 40/300, Best Score: 9.738470, Time: 363.93 s
+Iter 60/300, Best Score: 3.403873, Time: 574.75 s
+Iter 80/300, Best Score: 2.513069, Time: 798.56 s
+Iter 100/300, Best Score: 2.513069, Time: 997.20 s
+Iter 120/300, Best Score: 2.370009, Time: 1216.86 s
+Iter 140/300, Best Score: 2.294901, Time: 1469.57 s
+Iter 160/300, Best Score: 2.285395, Time: 1644.66 s
+Iter 180/300, Best Score: 2.284917, Time: 1819.81 s
+Iter 200/300, Best Score: 2.282964, Time: 1998.46 s
+Iter 220/300, Best Score: 2.278803, Time: 2168.86 s
+Iter 240/300, Best Score: 2.275399, Time: 2338.57 s
+Iter 260/300, Best Score: 2.275114, Time: 2509.37 s
+Iter 280/300, Best Score: 2.274777, Time: 2726.61 s
+score： tensor(2.2747)
+Time taken: 2887.45 seconds
+[ 1.9439343e+00,-2.2479615e+00,-4.0421171e+00, 4.8023696e+00,
+  4.5655203e-01, 1.2294763e+01,-1.0395391e+00,-5.4078177e-02,
+  5.2339548e-01, 1.0000000e-01, 3.2078440e-04, 3.5262179e+00]
+[2025-11-30 21:32:06,709][task][INFO][generic_smbo.py:295] Iter 57, objectives: [2.274732828140259].
+ 57%|█████▋    | 57/100 [26:23:59<23:27:23, 1963.79s/it]Iter 0/300, Best Score: 96.603218, Time: 6.44 s
+Iter 20/300, Best Score: 54.279411, Time: 145.36 s
+Iter 40/300, Best Score: 48.951164, Time: 335.04 s
+Iter 60/300, Best Score: 34.390579, Time: 529.06 s
+Iter 80/300, Best Score: 34.127312, Time: 739.14 s
+[Early stop] Iter 100/300: best=33.013237, Time: 885.15 s
+score： tensor(33.0132)
+Time taken: 885.15 seconds
+[ 2.3158927e+00,-2.2153742e+00,-2.3761320e+00,-2.4259970e+00,
+  3.5617864e-01, 1.2599870e+01,-1.9322702e+00,-1.5938948e+00,
+ -7.5423396e-01, 5.7143507e+00, 3.7505652e-03, 5.8510861e+00]
+[2025-11-30 21:46:51,976][task][INFO][generic_smbo.py:295] Iter 58, objectives: [33.01323699951172].
+ 58%|█████▊    | 58/100 [26:38:45<19:08:09, 1640.24s/it]Iter 0/300, Best Score: 91.249283, Time: 10.55 s
+Iter 20/300, Best Score: 32.709057, Time: 181.75 s
+Iter 40/300, Best Score: 30.185677, Time: 375.92 s
+Iter 60/300, Best Score: 28.403934, Time: 531.30 s
+Iter 80/300, Best Score: 27.987934, Time: 692.02 s
+[Early stop] Iter 100/300: best=27.862965, Time: 846.84 s
+score： tensor(27.8630)
+Time taken: 846.84 seconds
+[ 2.2209430e+00,-3.3443031e+00,-3.3712289e+00, 1.6281588e+00,
+  2.0195177e-01, 1.3886862e+01,-1.7404913e+00, 2.3412449e+00,
+ -2.4831882e+00, 2.3168199e+00, 2.9848579e-03, 8.3957148e+00]
+[2025-11-30 22:00:59,065][task][INFO][generic_smbo.py:295] Iter 59, objectives: [27.862964630126953].
+ 59%|█████▉    | 59/100 [26:52:52<15:58:13, 1402.29s/it]Iter 0/300, Best Score: 105.180748, Time: 6.56 s
+Iter 20/300, Best Score: 22.031265, Time: 148.21 s
+Iter 40/300, Best Score: 15.704454, Time: 301.30 s
+Iter 60/300, Best Score: 13.102448, Time: 460.17 s
+Iter 80/300, Best Score: 11.830313, Time: 623.40 s
+Iter 100/300, Best Score: 11.642568, Time: 786.70 s
+Iter 120/300, Best Score: 11.367545, Time: 954.52 s
+Iter 140/300, Best Score: 8.271597, Time: 1133.43 s
+Iter 160/300, Best Score: 7.884622, Time: 1320.67 s
+Iter 180/300, Best Score: 7.662170, Time: 1508.30 s
+Iter 200/300, Best Score: 7.522759, Time: 1734.13 s
+Iter 220/300, Best Score: 7.350669, Time: 1959.51 s
+Iter 240/300, Best Score: 6.770412, Time: 2169.93 s
+Iter 260/300, Best Score: 6.111307, Time: 2336.21 s
+Iter 280/300, Best Score: 5.861883, Time: 2516.15 s
+score： tensor(5.8334)
+Time taken: 2750.09 seconds
+[ 1.5434151e+00,-1.8857688e+00,-2.0437315e+00, 5.7534748e-01,
+  7.2886753e-01, 5.2793827e+00,-6.7603761e-01,-1.4204974e+00,
+ -1.0539911e+00, 8.3266801e-01, 7.3176896e-04, 3.9950931e+00]
+[2025-11-30 22:46:49,309][task][INFO][generic_smbo.py:295] Iter 60, objectives: [5.8333516120910645].
+ 60%|██████    | 60/100 [27:38:42<20:04:27, 1806.68s/it][2025-11-30 22:46:49,315][task][INFO][generic_advisor.py:365] Sample random config. rand_prob=0.100000.
+Iter 0/300, Best Score: 101.044182, Time: 10.59 s
+Iter 20/300, Best Score: 53.620468, Time: 187.56 s
+Iter 40/300, Best Score: 47.062725, Time: 375.52 s
+Iter 60/300, Best Score: 46.846859, Time: 557.32 s
+Iter 80/300, Best Score: 44.641048, Time: 738.40 s
+[Early stop] Iter 100/300: best=44.641048, Time: 916.20 s
+score： tensor(44.6410)
+Time taken: 916.20 seconds
+[ 2.8923728e+00,-2.7655292e+00,-2.9379356e+00, 2.1781788e+00,
+  1.4836686e+00, 1.0232417e+01,-3.2463119e+00, 2.9864309e+00,
+ -2.3301690e+00, 5.4972672e+00, 4.1328468e-03, 6.0596747e+00]
+[2025-11-30 23:02:05,517][task][INFO][generic_smbo.py:295] Iter 61, objectives: [44.641048431396484].
+ 61%|██████    | 61/100 [27:53:58<16:40:41, 1539.54s/it][2025-11-30 23:02:05,523][task][INFO][generic_advisor.py:365] Sample random config. rand_prob=0.100000.
+Iter 0/300, Best Score: 105.212845, Time: 10.64 s
+Iter 20/300, Best Score: 91.271057, Time: 182.19 s
+Iter 40/300, Best Score: 90.216263, Time: 313.47 s
+Iter 60/300, Best Score: 82.781166, Time: 485.34 s
+Iter 80/300, Best Score: 73.850677, Time: 654.20 s
+[Early stop] Iter 100/300: best=68.123657, Time: 814.01 s
+score： tensor(68.1237)
+Time taken: 814.01 seconds
+[ 1.0000000e-01,-4.0000000e+00,-5.0000000e+00,-5.0000000e+00,
+  1.0000000e-01, 3.4439297e+00,-5.0000000e+00,-5.0000000e+00,
+ -2.8870332e+00, 1.0000000e+01, 6.6924291e-03, 1.0000000e+01]
+[2025-11-30 23:15:39,532][task][INFO][generic_smbo.py:295] Iter 62, objectives: [68.1236572265625].
+ 62%|██████▏   | 62/100 [28:07:32<13:57:11, 1321.88s/it]Iter 0/300, Best Score: 85.107323, Time: 6.92 s
+Iter 20/300, Best Score: 22.562141, Time: 176.13 s
+Iter 40/300, Best Score: 13.146482, Time: 369.23 s
+Iter 60/300, Best Score: 9.732721, Time: 549.65 s
+Iter 80/300, Best Score: 7.736690, Time: 750.15 s
+Iter 100/300, Best Score: 6.561412, Time: 954.50 s
+Iter 120/300, Best Score: 5.452577, Time: 1166.62 s
+Iter 140/300, Best Score: 4.695824, Time: 1363.80 s
+Iter 160/300, Best Score: 4.560276, Time: 1522.14 s
+Iter 180/300, Best Score: 4.540278, Time: 1732.40 s
+Iter 200/300, Best Score: 4.536150, Time: 1943.72 s
+Iter 220/300, Best Score: 4.524606, Time: 2167.72 s
+Iter 240/300, Best Score: 4.524606, Time: 2380.72 s
+Iter 260/300, Best Score: 4.519333, Time: 2586.17 s
+Iter 280/300, Best Score: 4.519160, Time: 2752.07 s
+score： tensor(4.5181)
+Time taken: 2925.04 seconds
+[ 1.1153555e+00,-4.0000000e+00,-3.4077382e+00,-4.9711537e+00,
+  5.3247547e-01, 1.4910092e+01,-2.4433944e+00,-5.0000000e+00,
+ -8.0774122e-01, 3.1587768e-01, 7.4838853e-04, 6.2434092e+00]
+[2025-12-01 00:04:24,810][task][INFO][generic_smbo.py:295] Iter 63, objectives: [4.518107891082764].
+ 63%|██████▎   | 63/100 [28:56:18<18:31:47, 1802.90s/it]Iter 0/300, Best Score: 93.158119, Time: 7.59 s
+Iter 20/300, Best Score: 22.190472, Time: 225.22 s
+Iter 40/300, Best Score: 16.005032, Time: 463.23 s
+Iter 60/300, Best Score: 9.720086, Time: 651.81 s
+Iter 80/300, Best Score: 8.565873, Time: 833.57 s
+Iter 100/300, Best Score: 8.147126, Time: 1032.24 s
+Iter 120/300, Best Score: 7.717524, Time: 1223.55 s
+Iter 140/300, Best Score: 7.665286, Time: 1443.44 s
+Iter 160/300, Best Score: 7.594280, Time: 1669.73 s
+Iter 180/300, Best Score: 7.561056, Time: 1895.29 s
+Iter 200/300, Best Score: 7.531553, Time: 2131.10 s
+Iter 220/300, Best Score: 7.531333, Time: 2345.50 s
+Iter 240/300, Best Score: 7.524442, Time: 2595.52 s
+Iter 260/300, Best Score: 7.522075, Time: 2814.83 s
+Iter 280/300, Best Score: 7.519958, Time: 3044.77 s
+score： tensor(7.5199)
+Time taken: 3239.28 seconds
+[ 2.9363227e+00,-1.5178790e+00,-1.3223960e+00,-3.3027428e-01,
+  1.9775883e+00, 2.0959620e+00,-9.5601338e-01,-4.8069599e-01,
+  1.4633627e+00, 1.5047308e+00, 8.4335607e-04, 4.5160198e+00]
+[2025-12-01 00:58:24,352][task][INFO][generic_smbo.py:295] Iter 64, objectives: [7.519898414611816].
+ 64%|██████▍   | 64/100 [29:50:17<22:20:20, 2233.89s/it]Iter 0/300, Best Score: 82.472260, Time: 8.89 s
+Iter 20/300, Best Score: 38.917332, Time: 176.08 s
+Iter 40/300, Best Score: 33.542614, Time: 380.96 s
+Iter 60/300, Best Score: 33.542614, Time: 569.39 s
+Iter 80/300, Best Score: 23.995005, Time: 761.41 s
+[Early stop] Iter 100/300: best=21.062372, Time: 933.57 s
+score： tensor(21.0624)
+Time taken: 933.57 seconds
+[ 1.5531664e+00,-2.4973643e+00,-1.1949866e+00, 8.6762071e-01,
+  7.0283598e-01, 1.3258195e+01, 3.7455285e-01,-1.8187209e+00,
+ -3.5006249e-01, 5.5107164e+00, 2.1558222e-03, 4.2656035e+00]
+[2025-12-01 01:13:58,086][task][INFO][generic_smbo.py:295] Iter 65, objectives: [21.0623722076416].
+ 65%|██████▌   | 65/100 [30:05:51<17:55:34, 1843.85s/it]Iter 0/300, Best Score: 97.996300, Time: 6.97 s
+Iter 20/300, Best Score: 22.516108, Time: 178.35 s
+Iter 40/300, Best Score: 18.304653, Time: 383.85 s
+Iter 60/300, Best Score: 16.761557, Time: 602.86 s
+Iter 80/300, Best Score: 16.473022, Time: 782.86 s
+Iter 100/300, Best Score: 16.441362, Time: 996.61 s
+Iter 120/300, Best Score: 16.440088, Time: 1248.18 s
+Iter 140/300, Best Score: 16.436295, Time: 1464.28 s
+Iter 160/300, Best Score: 16.425152, Time: 1633.14 s
+Iter 180/300, Best Score: 16.422260, Time: 1848.20 s
+[Early stop] Iter 200/300: best=16.420361, Time: 2041.87 s
+score： tensor(16.4204)
+Time taken: 2041.88 seconds
+[ 2.3371253e+00,-1.1618242e+00,-7.8952211e-01, 2.1314776e+00,
+  1.8362006e+00, 9.8615980e+00,-5.0273210e-01, 2.6365981e+00,
+  4.9326237e-02, 6.9249921e+00, 2.5213445e-03, 9.8257256e+00]
+[2025-12-01 01:48:00,235][task][INFO][generic_smbo.py:295] Iter 66, objectives: [16.420360565185547].
+ 66%|██████▌   | 66/100 [30:39:53<17:58:33, 1903.34s/it]Iter 0/300, Best Score: 100.540421, Time: 8.28 s
+Iter 20/300, Best Score: 42.090523, Time: 148.15 s
+Iter 40/300, Best Score: 39.561001, Time: 341.22 s
+Iter 60/300, Best Score: 39.034004, Time: 559.76 s
+Iter 80/300, Best Score: 24.833811, Time: 726.93 s
+Iter 100/300, Best Score: 17.642584, Time: 895.75 s
+Iter 120/300, Best Score: 15.692578, Time: 1083.18 s
+Iter 140/300, Best Score: 12.880317, Time: 1257.39 s
+Iter 160/300, Best Score: 12.880317, Time: 1430.35 s
+Iter 180/300, Best Score: 12.397687, Time: 1605.41 s
+[Early stop] Iter 200/300: best=12.394971, Time: 1767.57 s
+score： tensor(12.3950)
+Time taken: 1767.58 seconds
+[ 1.3394731e+00,-1.1348816e+00,-2.6813090e+00, 1.2296066e+00,
+  8.0363274e-01, 1.4824018e+01,-1.3807557e+00,-9.8009276e-01,
+  3.9957933e+00, 1.8143228e+00, 1.0098973e-03, 8.4853468e+00]
+[2025-12-01 02:17:27,954][task][INFO][generic_smbo.py:295] Iter 67, objectives: [12.394970893859863].
+ 67%|██████▋   | 67/100 [31:09:21<17:04:27, 1862.65s/it]Iter 0/300, Best Score: 73.564590, Time: 10.66 s
+Iter 20/300, Best Score: 59.665356, Time: 205.18 s
+Iter 40/300, Best Score: 37.977654, Time: 359.29 s
+Iter 60/300, Best Score: 35.796608, Time: 519.00 s
+Iter 80/300, Best Score: 33.606884, Time: 682.53 s
+[Early stop] Iter 100/300: best=28.651236, Time: 851.85 s
+score： tensor(28.6512)
+Time taken: 851.85 seconds
+[ 1.5041828e+00,-2.2536581e+00,-2.8034329e+00,-1.7987288e+00,
+  1.1885989e-01, 1.1722552e+01,-1.2750098e+00,-7.2695941e-01,
+ -1.9591656e+00, 6.7619977e+00, 4.1633896e-03, 8.7835608e+00]
+[2025-12-01 02:31:40,040][task][INFO][generic_smbo.py:295] Iter 68, objectives: [28.651235580444336].
+ 68%|██████▊   | 68/100 [31:23:33<13:51:43, 1559.48s/it]Iter 0/300, Best Score: 99.825249, Time: 10.71 s
+Iter 20/300, Best Score: 31.996540, Time: 204.85 s
+Iter 40/300, Best Score: 16.611488, Time: 419.41 s
+Iter 60/300, Best Score: 11.901653, Time: 628.55 s
+Iter 80/300, Best Score: 11.348973, Time: 793.47 s
+Iter 100/300, Best Score: 11.224368, Time: 959.18 s
+Iter 120/300, Best Score: 11.196027, Time: 1126.12 s
+Iter 140/300, Best Score: 11.124531, Time: 1292.17 s
+Iter 160/300, Best Score: 11.096461, Time: 1460.74 s
+Iter 180/300, Best Score: 11.046020, Time: 1627.98 s
+[Early stop] Iter 200/300: best=11.014721, Time: 1834.21 s
+score： tensor(11.0147)
+Time taken: 1834.21 seconds
+[ 9.6943194e-01,-1.2865771e+00,-2.3193834e+00, 2.2034128e+00,
+  4.7096318e-01, 5.7930155e+00, 4.8038778e-01,-3.9238760e+00,
+ -6.3155442e-01, 4.0087495e+00, 1.6519788e-03, 8.7817507e+00]
+[2025-12-01 03:02:14,531][task][INFO][generic_smbo.py:295] Iter 69, objectives: [11.014720916748047].
+ 69%|██████▉   | 69/100 [31:54:07<14:08:21, 1641.98s/it]Iter 0/300, Best Score: 80.099121, Time: 10.40 s
+Iter 20/300, Best Score: 43.298683, Time: 193.31 s
+Iter 40/300, Best Score: 31.803473, Time: 383.01 s
+Iter 60/300, Best Score: 31.803473, Time: 574.16 s
+Iter 80/300, Best Score: 28.229628, Time: 745.33 s
+[Early stop] Iter 100/300: best=28.229628, Time: 932.03 s
+score： tensor(28.2296)
+Time taken: 932.03 seconds
+[ 2.0413070e+00,-3.4654050e+00,-1.5396625e+00, 5.6549728e-01,
+  1.2589943e+00, 8.9530048e+00,-7.8746158e-01,-6.2590665e-01,
+ -6.6536021e-01, 4.8204131e+00, 1.9072149e-03, 5.8895707e+00]
+[2025-12-01 03:17:46,794][task][INFO][generic_smbo.py:295] Iter 70, objectives: [28.22962760925293].
+ 70%|███████   | 70/100 [32:09:39<11:54:32, 1429.07s/it]Iter 0/300, Best Score: 99.286453, Time: 6.88 s
+Iter 20/300, Best Score: 50.620110, Time: 154.51 s
+Iter 40/300, Best Score: 31.408081, Time: 343.28 s
+Iter 60/300, Best Score: 26.422636, Time: 491.77 s
+Iter 80/300, Best Score: 24.237848, Time: 688.86 s
+[Early stop] Iter 100/300: best=23.027273, Time: 886.92 s
+score： tensor(23.0273)
+Time taken: 886.93 seconds
+[ 3.0672760e+00,-2.2812369e+00,-1.0115407e+00,-5.0000000e+00,
+  1.2295026e+00, 1.0665798e+01,-4.8303762e-01,-4.0824323e+00,
+ -7.0408165e-01, 6.4975166e+00, 3.0989642e-03, 9.9999657e+00]
+[2025-12-01 03:32:33,850][task][INFO][generic_smbo.py:295] Iter 71, objectives: [23.027273178100586].
+ 71%|███████   | 71/100 [32:24:27<10:12:07, 1266.46s/it]Iter 0/300, Best Score: 88.296997, Time: 10.58 s
+Iter 20/300, Best Score: 30.798243, Time: 220.50 s
+Iter 40/300, Best Score: 25.084286, Time: 401.70 s
+Iter 60/300, Best Score: 23.291355, Time: 614.62 s
+Iter 80/300, Best Score: 22.794033, Time: 822.97 s
+[Early stop] Iter 100/300: best=22.718008, Time: 981.98 s
+score： tensor(22.7180)
+Time taken: 981.99 seconds
+[ 3.1660125e+00,-2.0183020e+00,-9.7131443e-01,-1.5918076e+00,
+  1.4131185e+00, 1.0317760e+01,-5.7671601e-01,-7.8794050e-01,
+ -4.3744244e-02, 8.2260504e+00, 2.9352976e-03, 8.0408039e+00]
+[2025-12-01 03:48:56,078][task][INFO][generic_smbo.py:295] Iter 72, objectives: [22.718008041381836].
+ 72%|███████▏  | 72/100 [32:40:49<9:11:13, 1181.19s/it] Iter 0/300, Best Score: 101.285759, Time: 6.77 s
+Iter 20/300, Best Score: 36.411659, Time: 193.61 s
+Iter 40/300, Best Score: 34.102264, Time: 383.96 s
+Iter 60/300, Best Score: 24.641960, Time: 597.45 s
+Iter 80/300, Best Score: 24.641960, Time: 776.72 s
+[Early stop] Iter 100/300: best=24.641960, Time: 941.92 s
+score： tensor(24.6420)
+Time taken: 941.93 seconds
+[ 3.0658934e+00,-3.1002650e+00,-1.3730347e+00, 1.2309878e+00,
+  1.6725820e+00, 7.8838630e+00,-5.2808338e-01,-4.7999346e-01,
+ -2.2172512e-01, 5.5226641e+00, 1.7443970e-03, 7.4384971e+00]
+[2025-12-01 04:04:38,135][task][INFO][generic_smbo.py:295] Iter 73, objectives: [24.64196014404297].
+ 73%|███████▎  | 73/100 [32:56:31<8:19:15, 1109.45s/it]Iter 0/300, Best Score: 98.583641, Time: 10.60 s
+Iter 20/300, Best Score: 27.779020, Time: 178.00 s
+Iter 40/300, Best Score: 20.090403, Time: 373.95 s
+Iter 60/300, Best Score: 16.438131, Time: 584.90 s
+Iter 80/300, Best Score: 12.648170, Time: 780.57 s
+Iter 100/300, Best Score: 10.156481, Time: 998.23 s
+Iter 120/300, Best Score: 10.156481, Time: 1228.78 s
+Iter 140/300, Best Score: 9.037189, Time: 1464.46 s
+Iter 160/300, Best Score: 9.029649, Time: 1673.49 s
+Iter 180/300, Best Score: 8.909127, Time: 1879.34 s
+Iter 200/300, Best Score: 8.671941, Time: 2086.60 s
+Iter 220/300, Best Score: 8.369106, Time: 2315.99 s
+Iter 240/300, Best Score: 8.083650, Time: 2511.49 s
+Iter 260/300, Best Score: 7.789903, Time: 2736.73 s
+Iter 280/300, Best Score: 7.780199, Time: 2963.65 s
+score： tensor(7.7775)
+Time taken: 3131.83 seconds
+[ 3.6174521e+00,-1.0150552e+00,-8.2105178e-01, 3.4440880e+00,
+  1.0404569e+00, 1.0468602e+01, 1.5800796e+00,-4.1455479e+00,
+  1.3292876e+00, 1.0270576e+00, 1.0064495e-03, 5.6760540e+00]
+[2025-12-01 04:56:50,226][task][INFO][generic_smbo.py:295] Iter 74, objectives: [7.777505397796631].
+ 74%|███████▍  | 74/100 [33:48:43<12:23:42, 1716.24s/it]Iter 0/300, Best Score: 81.243111, Time: 6.80 s
+Iter 20/300, Best Score: 25.144550, Time: 192.99 s
+Iter 40/300, Best Score: 14.526943, Time: 394.97 s
+Iter 60/300, Best Score: 6.640371, Time: 620.18 s
+Iter 80/300, Best Score: 6.071713, Time: 840.92 s
+Iter 100/300, Best Score: 5.681969, Time: 1053.76 s
+Iter 120/300, Best Score: 5.674379, Time: 1251.83 s
+Iter 140/300, Best Score: 5.649167, Time: 1419.48 s
+Iter 160/300, Best Score: 5.641916, Time: 1621.09 s
+Iter 180/300, Best Score: 5.630795, Time: 1791.75 s
+Iter 200/300, Best Score: 5.592865, Time: 2018.60 s
+Iter 220/300, Best Score: 5.532938, Time: 2255.82 s
+Iter 240/300, Best Score: 5.521658, Time: 2480.30 s
+Iter 260/300, Best Score: 5.479004, Time: 2701.22 s
+Iter 280/300, Best Score: 5.453411, Time: 2898.42 s
+score： tensor(5.4505)
+Time taken: 3133.96 seconds
+[ 2.4221866e+00,-3.2188609e+00,-2.9255192e+00, 1.7243528e+00,
+  1.0340263e+00, 6.9401393e+00,-1.1604879e+00,-2.6060650e+00,
+ -9.8061931e-01, 5.6588525e-01, 7.9510506e-04, 8.6814651e+00]
+[2025-12-01 05:49:04,301][task][INFO][generic_smbo.py:295] Iter 75, objectives: [5.450523376464844].
+ 75%|███████▌  | 75/100 [34:40:57<14:52:19, 2141.59s/it]Iter 0/300, Best Score: 91.541115, Time: 6.72 s
+Iter 20/300, Best Score: 45.806000, Time: 179.79 s
+Iter 40/300, Best Score: 22.324026, Time: 357.67 s
+Iter 60/300, Best Score: 18.201298, Time: 535.09 s
+Iter 80/300, Best Score: 16.809011, Time: 715.16 s
+Iter 100/300, Best Score: 15.763776, Time: 905.83 s
+Iter 120/300, Best Score: 12.496895, Time: 1109.45 s
+Iter 140/300, Best Score: 11.273195, Time: 1335.50 s
+Iter 160/300, Best Score: 10.673470, Time: 1498.84 s
+Iter 180/300, Best Score: 9.451768, Time: 1688.14 s
+Iter 200/300, Best Score: 9.220150, Time: 1890.47 s
+Iter 220/300, Best Score: 8.218390, Time: 2093.18 s
+Iter 240/300, Best Score: 7.298797, Time: 2277.03 s
+Iter 260/300, Best Score: 6.358126, Time: 2428.37 s
+Iter 280/300, Best Score: 5.936908, Time: 2579.67 s
+score： tensor(5.8910)
+Time taken: 2771.57 seconds
+[ 8.8619387e-01,-1.0000000e+00,-2.1272855e+00,-5.0000000e+00,
+  8.4654409e-01, 4.1778364e+00,-2.2465570e+00,-3.4391274e+00,
+ -1.0363109e+00, 4.4706235e+00, 1.7380422e-03, 1.0000000e+01]
+[2025-12-01 06:35:16,034][task][INFO][generic_smbo.py:295] Iter 76, objectives: [5.891016960144043].
+ 76%|███████▌  | 76/100 [35:27:09<15:32:15, 2330.64s/it]Iter 0/300, Best Score: 88.686264, Time: 6.86 s
+Iter 20/300, Best Score: 29.443916, Time: 145.10 s
+Iter 40/300, Best Score: 16.155102, Time: 297.20 s
+Iter 60/300, Best Score: 16.155102, Time: 525.47 s
+Iter 80/300, Best Score: 11.479597, Time: 732.18 s
+Iter 100/300, Best Score: 6.517365, Time: 960.85 s
+Iter 120/300, Best Score: 3.920927, Time: 1159.75 s
+Iter 140/300, Best Score: 3.920927, Time: 1375.82 s
+Iter 160/300, Best Score: 3.920927, Time: 1544.53 s
+Iter 180/300, Best Score: 3.920927, Time: 1764.59 s
+Iter 200/300, Best Score: 3.920927, Time: 1983.26 s
+Iter 220/300, Best Score: 3.920927, Time: 2182.18 s
+Iter 240/300, Best Score: 3.920927, Time: 2393.34 s
+Iter 260/300, Best Score: 3.920927, Time: 2600.65 s
+Iter 280/300, Best Score: 3.920927, Time: 2819.25 s
+score： tensor(3.3795)
+Time taken: 2980.57 seconds
+[ 3.1820531e+00,-2.8994844e+00,-2.7845166e+00, 1.5281482e+00,
+  2.0530376e+00, 1.0085274e+01,-2.0448253e+00,-7.1139592e-01,
+  2.8520260e+00, 2.6416349e-01, 4.7269580e-04, 6.4254661e+00]
+[2025-12-01 07:24:56,745][task][INFO][generic_smbo.py:295] Iter 77, objectives: [3.379502296447754].
+ 77%|███████▋  | 77/100 [36:16:49<16:08:10, 2525.66s/it]Iter 0/300, Best Score: 91.110275, Time: 10.67 s
+Iter 20/300, Best Score: 21.032696, Time: 195.84 s
+Iter 40/300, Best Score: 15.474281, Time: 414.24 s
+Iter 60/300, Best Score: 12.601130, Time: 597.76 s
+Iter 80/300, Best Score: 10.627277, Time: 804.30 s
+Iter 100/300, Best Score: 10.345039, Time: 1017.44 s
+Iter 120/300, Best Score: 7.390558, Time: 1212.43 s
+Iter 140/300, Best Score: 7.390558, Time: 1377.76 s
+Iter 160/300, Best Score: 7.050182, Time: 1543.57 s
+Iter 180/300, Best Score: 6.893546, Time: 1759.98 s
+Iter 200/300, Best Score: 6.843391, Time: 1927.97 s
+Iter 220/300, Best Score: 6.787697, Time: 2113.37 s
+Iter 240/300, Best Score: 6.751987, Time: 2351.39 s
+Iter 260/300, Best Score: 6.673063, Time: 2520.79 s
+Iter 280/300, Best Score: 6.652420, Time: 2722.69 s
+score： tensor(6.6282)
+Time taken: 2933.10 seconds
+[ 2.1115365e+00,-2.1507716e+00,-1.7051573e+00,-2.0679576e+00,
+  1.5087839e+00, 7.6746135e+00,-1.3427525e+00,-2.0608425e+00,
+  6.9745606e-01, 1.1882229e+00, 8.3174999e-04, 4.8433375e+00]
+[2025-12-01 08:13:50,104][task][INFO][generic_smbo.py:295] Iter 78, objectives: [6.6282148361206055].
+ 78%|███████▊  | 78/100 [37:05:43<16:10:55, 2647.97s/it]Iter 0/300, Best Score: 90.737267, Time: 6.76 s
+Iter 20/300, Best Score: 22.980022, Time: 204.40 s
+Iter 40/300, Best Score: 16.646402, Time: 397.86 s
+Iter 60/300, Best Score: 12.531504, Time: 612.47 s
+Iter 80/300, Best Score: 11.179678, Time: 814.25 s
+Iter 100/300, Best Score: 9.770759, Time: 1019.00 s
+Iter 120/300, Best Score: 9.096354, Time: 1231.87 s
+Iter 140/300, Best Score: 7.534489, Time: 1425.09 s
+Iter 160/300, Best Score: 7.534489, Time: 1589.86 s
+Iter 180/300, Best Score: 7.416035, Time: 1770.48 s
+Iter 200/300, Best Score: 7.396954, Time: 1920.95 s
+Iter 220/300, Best Score: 7.030753, Time: 2072.07 s
+Iter 240/300, Best Score: 7.025451, Time: 2260.71 s
+Iter 260/300, Best Score: 6.909402, Time: 2454.53 s
+Iter 280/300, Best Score: 6.819236, Time: 2631.99 s
+score： tensor(6.8081)
+Time taken: 2776.25 seconds
+[ 2.1354401e-01,-1.0000000e+00,-5.0000000e+00,-5.0000000e+00,
+  1.7407331e-01, 1.5000000e+01,-5.0000000e+00,-3.5077143e+00,
+ -4.9534386e-01, 1.7748427e+00, 1.6518671e-03, 1.0000000e+01]
+[2025-12-01 09:00:06,488][task][INFO][generic_smbo.py:295] Iter 79, objectives: [6.808105945587158].
+ 79%|███████▉  | 79/100 [37:51:59<15:40:16, 2686.49s/it]Iter 0/300, Best Score: 81.389465, Time: 7.20 s
+Iter 20/300, Best Score: 26.421459, Time: 143.99 s
+Iter 40/300, Best Score: 10.717425, Time: 284.10 s
+Iter 60/300, Best Score: 8.028393, Time: 455.10 s
+Iter 80/300, Best Score: 6.620673, Time: 636.17 s
+Iter 100/300, Best Score: 6.620673, Time: 813.48 s
+Iter 120/300, Best Score: 5.797591, Time: 1010.37 s
+Iter 140/300, Best Score: 5.762846, Time: 1191.05 s
+Iter 160/300, Best Score: 5.762846, Time: 1374.37 s
+Iter 180/300, Best Score: 5.540012, Time: 1563.75 s
+Iter 200/300, Best Score: 5.396886, Time: 1745.07 s
+Iter 220/300, Best Score: 5.368102, Time: 1974.60 s
+Iter 240/300, Best Score: 5.368102, Time: 2175.24 s
+Iter 260/300, Best Score: 5.368102, Time: 2390.38 s
+Iter 280/300, Best Score: 5.271597, Time: 2544.68 s
+score： tensor(5.2716)
+Time taken: 2693.34 seconds
+[ 1.0131415e+00,-2.5125737e+00,-3.8803523e+00,-5.5099148e-01,
+  6.9370610e-01, 8.9672527e+00,-3.2802837e+00, 1.1895342e-01,
+ -7.0755363e-01, 6.7313671e-01, 8.7880634e-04, 9.9610043e+00]
+[2025-12-01 09:44:59,955][task][INFO][generic_smbo.py:295] Iter 80, objectives: [5.271596908569336].
+ 80%|████████  | 80/100 [38:36:53<14:56:11, 2688.59s/it]Iter 0/300, Best Score: 99.954208, Time: 6.84 s
+Iter 20/300, Best Score: 36.110062, Time: 158.48 s
+Iter 40/300, Best Score: 16.431744, Time: 342.11 s
+Iter 60/300, Best Score: 16.056602, Time: 534.78 s
+Iter 80/300, Best Score: 15.937392, Time: 752.46 s
+Iter 100/300, Best Score: 15.846566, Time: 908.81 s
+Iter 120/300, Best Score: 15.843627, Time: 1067.21 s
+Iter 140/300, Best Score: 15.843333, Time: 1225.38 s
+Iter 160/300, Best Score: 15.843010, Time: 1385.62 s
+Iter 180/300, Best Score: 15.842997, Time: 1578.92 s
+[Early stop] Iter 200/300: best=15.842995, Time: 1780.18 s
+score： tensor(15.8430)
+Time taken: 1780.18 seconds
+[ 2.8263540e+00,-2.2430394e+00,-1.4408207e+00,-8.9084005e-01,
+  2.1668406e+00, 6.9209518e+00,-1.3372513e+00,-6.3634165e-02,
+  1.2594312e+00, 4.1365705e+00, 1.4469805e-03, 6.2027106e+00]
+[2025-12-01 10:14:40,266][task][INFO][generic_smbo.py:295] Iter 81, objectives: [15.842994689941406].
+ 81%|████████  | 81/100 [39:06:33<12:45:05, 2416.10s/it]Iter 0/300, Best Score: 101.414169, Time: 6.80 s
+Iter 20/300, Best Score: 31.554632, Time: 153.52 s
+Iter 40/300, Best Score: 22.118734, Time: 354.56 s
+Iter 60/300, Best Score: 14.846297, Time: 528.43 s
+Iter 80/300, Best Score: 13.046106, Time: 706.16 s
+Iter 100/300, Best Score: 12.743819, Time: 852.36 s
+Iter 120/300, Best Score: 11.203692, Time: 1001.69 s
+Iter 140/300, Best Score: 10.133192, Time: 1151.61 s
+Iter 160/300, Best Score: 9.634439, Time: 1320.19 s
+Iter 180/300, Best Score: 7.889875, Time: 1524.09 s
+Iter 200/300, Best Score: 7.791654, Time: 1745.75 s
+Iter 220/300, Best Score: 7.671316, Time: 1932.25 s
+Iter 240/300, Best Score: 7.560572, Time: 2132.70 s
+Iter 260/300, Best Score: 7.560572, Time: 2286.88 s
+Iter 280/300, Best Score: 7.178816, Time: 2474.75 s
+score： tensor(6.9670)
+Time taken: 2670.81 seconds
+[ 2.4668639e+00,-1.9320880e+00,-1.2988420e+00,-2.2842531e+00,
+  2.3862145e+00, 9.2963552e+00,-1.3419609e+00,-1.3490742e+00,
+  3.7412941e+00, 3.3690219e+00, 1.2054815e-03, 5.9599032e+00]
+[2025-12-01 10:59:11,207][task][INFO][generic_smbo.py:295] Iter 82, objectives: [6.967045307159424].
+ 82%|████████▏ | 82/100 [39:51:04<12:27:45, 2492.56s/it][2025-12-01 10:59:11,214][task][INFO][generic_advisor.py:365] Sample random config. rand_prob=0.100000.
+Iter 0/300, Best Score: 76.367683, Time: 10.73 s
+Iter 20/300, Best Score: 54.456337, Time: 188.88 s
+Iter 40/300, Best Score: 54.456337, Time: 373.75 s
+Iter 60/300, Best Score: 54.456337, Time: 518.67 s
+Iter 80/300, Best Score: 54.456337, Time: 665.96 s
+[Early stop] Iter 100/300: best=54.456337, Time: 836.89 s
+score： tensor(54.4563)
+Time taken: 836.89 seconds
+[ 3.2591004e+00,-3.0562005e+00,-2.1108019e+00,-3.9663093e+00,
+  8.7131947e-01, 1.2100446e+01,-1.5784559e+00,-2.8284097e+00,
+ -1.2392149e+00, 3.8303499e+00, 2.0682504e-03, 9.3134279e+00]
+[2025-12-01 11:13:08,108][task][INFO][generic_smbo.py:295] Iter 83, objectives: [54.456336975097656].
+ 83%|████████▎ | 83/100 [40:05:01<9:25:29, 1995.86s/it] Iter 0/300, Best Score: 97.545967, Time: 6.70 s
+Iter 20/300, Best Score: 29.187016, Time: 184.39 s
+Iter 40/300, Best Score: 14.108096, Time: 362.01 s
+Iter 60/300, Best Score: 11.655935, Time: 517.99 s
+Iter 80/300, Best Score: 10.131714, Time: 708.99 s
+Iter 100/300, Best Score: 9.589397, Time: 937.56 s
+Iter 120/300, Best Score: 9.241040, Time: 1161.27 s
+Iter 140/300, Best Score: 9.237052, Time: 1370.18 s
+Iter 160/300, Best Score: 9.224119, Time: 1560.66 s
+Iter 180/300, Best Score: 7.944818, Time: 1791.01 s
+Iter 200/300, Best Score: 7.861177, Time: 2012.02 s
+Iter 220/300, Best Score: 7.492879, Time: 2212.02 s
+Iter 240/300, Best Score: 7.386631, Time: 2416.28 s
+Iter 260/300, Best Score: 7.238959, Time: 2666.01 s
+Iter 280/300, Best Score: 7.189908, Time: 2839.27 s
+score： tensor(7.1899)
+Time taken: 3047.99 seconds
+[ 4.1039494e-01,-1.0004623e+00,-3.1031692e+00,-7.2873008e-01,
+  1.1818799e-01, 6.6311312e+00, 2.0010848e+00,-4.3530560e+00,
+ -4.6078622e-01, 2.9109399e+00, 1.3368132e-03, 4.8443923e+00]
+[2025-12-01 12:03:56,229][task][INFO][generic_smbo.py:295] Iter 84, objectives: [7.189908027648926].
+ 84%|████████▍ | 84/100 [40:55:49<10:16:24, 2311.54s/it]Iter 0/300, Best Score: 73.377083, Time: 6.89 s
+Iter 20/300, Best Score: 31.829327, Time: 149.52 s
+Iter 40/300, Best Score: 17.798178, Time: 298.38 s
+Iter 60/300, Best Score: 11.359658, Time: 479.49 s
+Iter 80/300, Best Score: 8.544323, Time: 665.98 s
+Iter 100/300, Best Score: 7.212974, Time: 821.14 s
+Iter 120/300, Best Score: 6.835680, Time: 1027.95 s
+Iter 140/300, Best Score: 6.549588, Time: 1235.20 s
+Iter 160/300, Best Score: 5.579592, Time: 1419.82 s
+Iter 180/300, Best Score: 5.137570, Time: 1637.01 s
+Iter 200/300, Best Score: 4.986445, Time: 1856.96 s
+Iter 220/300, Best Score: 4.976293, Time: 2057.42 s
+Iter 240/300, Best Score: 4.925464, Time: 2273.10 s
+Iter 260/300, Best Score: 4.879256, Time: 2440.06 s
+Iter 280/300, Best Score: 4.810122, Time: 2608.90 s
+score： tensor(4.8000)
+Time taken: 2818.08 seconds
+[ 2.2584291e+00,-2.3405352e+00,-2.4810517e+00, 2.9120989e+00,
+  1.7580413e+00, 1.5000000e+01,-2.1832428e+00, 3.6677210e+00,
+  2.1358500e+00, 7.2642946e-01, 7.8711117e-04, 1.0000000e+01]
+[2025-12-01 12:50:54,448][task][INFO][generic_smbo.py:295] Iter 85, objectives: [4.79995059967041].
+ 85%|████████▌ | 85/100 [41:42:47<10:15:53, 2463.54s/it]Iter 0/300, Best Score: 77.702942, Time: 6.90 s
+Iter 20/300, Best Score: 57.427456, Time: 148.64 s
+Iter 40/300, Best Score: 56.768089, Time: 303.52 s
+Iter 60/300, Best Score: 54.818001, Time: 466.47 s
+Iter 80/300, Best Score: 48.923496, Time: 635.74 s
+[Early stop] Iter 100/300: best=48.923496, Time: 796.63 s
+score： tensor(48.9235)
+Time taken: 796.63 seconds
+[ 2.5764720e+00,-1.4157180e+00,-1.9030104e+00,-6.1149448e-01,
+  3.1352344e+00, 1.0811192e+01,-2.6655297e+00,-1.4899261e+00,
+ -7.2954530e-01, 8.3647041e+00, 5.4251156e-03, 6.5448565e+00]
+[2025-12-01 13:04:11,201][task][INFO][generic_smbo.py:295] Iter 86, objectives: [48.92349624633789].
+ 86%|████████▌ | 86/100 [41:56:04<7:38:09, 1963.51s/it] Iter 0/300, Best Score: 89.848183, Time: 6.87 s
+Iter 20/300, Best Score: 45.346466, Time: 192.51 s
+Iter 40/300, Best Score: 32.473019, Time: 338.87 s
+Iter 60/300, Best Score: 28.861162, Time: 545.79 s
+Iter 80/300, Best Score: 24.792442, Time: 740.00 s
+[Early stop] Iter 100/300: best=22.501427, Time: 945.54 s
+score： tensor(22.5014)
+Time taken: 945.54 seconds
+[ 7.8137529e-01,-1.5650113e+00,-1.9359851e+00, 4.7838216e+00,
+  1.2565278e-01, 1.5000000e+01, 1.8632994e+00, 4.1144638e+00,
+ -9.1534662e-01, 5.7670341e+00, 3.4561027e-03, 1.0000000e+01]
+[2025-12-01 13:19:56,859][task][INFO][generic_smbo.py:295] Iter 87, objectives: [22.501426696777344].
+ 87%|████████▋ | 87/100 [42:11:50<5:59:15, 1658.15s/it]Iter 0/300, Best Score: 100.465820, Time: 10.67 s
+Iter 20/300, Best Score: 82.387383, Time: 216.11 s
+Iter 40/300, Best Score: 77.533058, Time: 410.00 s
+Iter 60/300, Best Score: 72.431160, Time: 568.39 s
+Iter 80/300, Best Score: 69.905533, Time: 761.56 s
+[Early stop] Iter 100/300: best=68.971313, Time: 963.18 s
+score： tensor(68.9713)
+Time taken: 963.18 seconds
+[ 4.0000000e+00,-1.7531713e+00,-1.4480680e+00,-5.0000000e+00,
+  1.0000000e-01, 5.8465409e+00, 5.0000000e+00, 4.6802473e+00,
+  1.1401584e+00, 1.0002133e-01, 2.2014401e-04, 1.2033647e-01]
+[2025-12-01 13:36:00,303][task][INFO][generic_smbo.py:295] Iter 88, objectives: [68.9713134765625].
+ 88%|████████▊ | 88/100 [42:27:53<4:49:56, 1449.74s/it]Iter 0/300, Best Score: 94.189201, Time: 6.82 s
+Iter 20/300, Best Score: 54.298275, Time: 206.92 s
+Iter 40/300, Best Score: 34.880745, Time: 374.88 s
+Iter 60/300, Best Score: 27.107237, Time: 564.21 s
+Iter 80/300, Best Score: 16.934921, Time: 748.33 s
+Iter 100/300, Best Score: 7.912936, Time: 990.44 s
+Iter 120/300, Best Score: 7.912936, Time: 1194.66 s
+Iter 140/300, Best Score: 7.533571, Time: 1410.98 s
+Iter 160/300, Best Score: 4.842753, Time: 1580.09 s
+Iter 180/300, Best Score: 4.842753, Time: 1748.72 s
+Iter 200/300, Best Score: 3.810774, Time: 1918.29 s
+Iter 220/300, Best Score: 3.805872, Time: 2094.69 s
+Iter 240/300, Best Score: 3.671069, Time: 2303.09 s
+Iter 260/300, Best Score: 3.363597, Time: 2470.95 s
+Iter 280/300, Best Score: 3.363597, Time: 2662.94 s
+score： tensor(3.0114)
+Time taken: 2877.79 seconds
+[ 7.0038998e-01,-1.6852006e+00,-4.7808685e+00,-1.2227886e-01,
+  3.0549720e-01, 1.4972353e+01,-1.5078013e+00,-5.0000000e+00,
+  1.4194546e+00, 7.6804602e-01, 7.3973101e-04, 6.4024463e+00]
+[2025-12-01 14:23:58,244][task][INFO][generic_smbo.py:295] Iter 89, objectives: [3.0113580226898193].
+ 89%|████████▉ | 89/100 [43:15:51<5:44:20, 1878.20s/it]Iter 0/300, Best Score: 97.655571, Time: 9.47 s
+Iter 20/300, Best Score: 33.999519, Time: 202.76 s
+Iter 40/300, Best Score: 22.702902, Time: 341.58 s
+Iter 60/300, Best Score: 17.405996, Time: 487.63 s
+Iter 80/300, Best Score: 15.973026, Time: 637.51 s
+Iter 100/300, Best Score: 15.282187, Time: 790.22 s
+Iter 120/300, Best Score: 14.686876, Time: 945.03 s
+Iter 140/300, Best Score: 12.618269, Time: 1100.30 s
+Iter 160/300, Best Score: 11.743204, Time: 1254.37 s
+Iter 180/300, Best Score: 8.998273, Time: 1409.06 s
+Iter 200/300, Best Score: 6.627329, Time: 1563.93 s
+Iter 220/300, Best Score: 6.375500, Time: 1718.80 s
+Iter 240/300, Best Score: 6.328428, Time: 1874.43 s
+Iter 260/300, Best Score: 6.272527, Time: 2030.65 s
+Iter 280/300, Best Score: 6.202972, Time: 2189.97 s
+score： tensor(5.8675)
+Time taken: 2340.23 seconds
+[ 2.3645058e+00,-2.1254086e+00,-1.8323725e+00, 3.1065857e-01,
+  1.4357544e+00, 5.4383535e+00,-1.0502075e+00,-9.6116436e-01,
+ -6.5075260e-01, 8.6682695e-01, 8.1426860e-04, 6.7167673e+00]
+[2025-12-01 15:02:58,618][task][INFO][generic_smbo.py:295] Iter 90, objectives: [5.8675312995910645].
+ 90%|█████████ | 90/100 [43:54:51<5:36:08, 2016.85s/it]Iter 0/300, Best Score: 96.839996, Time: 6.60 s
+Iter 20/300, Best Score: 82.231903, Time: 140.08 s
+Iter 40/300, Best Score: 77.893883, Time: 322.82 s
+Iter 60/300, Best Score: 75.631409, Time: 553.45 s
+Iter 80/300, Best Score: 75.461662, Time: 848.32 s
+[Early stop] Iter 100/300: best=75.461662, Time: 1075.55 s
+score： tensor(75.4617)
+Time taken: 1075.55 seconds
+[ 1.0037303e-01,-3.7314906e+00,-8.4808415e-01, 7.0452267e-01,
+  2.4801061e+00, 1.4114025e+01,-1.3099095e+00,-4.9846916e+00,
+  3.3716362e+00, 9.7945261e+00, 8.0517679e-04, 9.9978571e+00]
+[2025-12-01 15:20:54,277][task][INFO][generic_smbo.py:295] Iter 91, objectives: [75.46166229248047].
+ 91%|█████████ | 91/100 [44:12:47<4:20:10, 1734.49s/it]Iter 0/300, Best Score: 103.546089, Time: 6.47 s
+Iter 20/300, Best Score: 19.693531, Time: 145.75 s
+Iter 40/300, Best Score: 6.595080, Time: 317.27 s
+Iter 60/300, Best Score: 5.614068, Time: 462.98 s
+Iter 80/300, Best Score: 5.078923, Time: 609.73 s
+Iter 100/300, Best Score: 5.075584, Time: 760.29 s
+Iter 120/300, Best Score: 4.997336, Time: 913.35 s
+Iter 140/300, Best Score: 4.924191, Time: 1070.40 s
+Iter 160/300, Best Score: 4.841710, Time: 1236.29 s
+Iter 180/300, Best Score: 4.822638, Time: 1431.73 s
+Iter 200/300, Best Score: 4.807167, Time: 1589.77 s
+Iter 220/300, Best Score: 4.803851, Time: 1748.11 s
+Iter 240/300, Best Score: 4.801394, Time: 1906.65 s
+Iter 260/300, Best Score: 4.801300, Time: 2065.28 s
+Iter 280/300, Best Score: 4.800939, Time: 2224.50 s
+score： tensor(4.8009)
+Time taken: 2378.26 seconds
+[ 3.7300637e+00,-2.4486220e+00,-1.7699229e+00, 1.5486125e+00,
+  2.3532236e+00, 3.8496664e+00,-1.0829844e+00,-6.9498807e-02,
+ -2.0654075e+00, 5.6243932e-01, 7.1417133e-04, 9.4768457e+00]
+[2025-12-01 16:00:32,667][task][INFO][generic_smbo.py:295] Iter 92, objectives: [4.800889492034912].
+ 92%|█████████▏| 92/100 [44:52:25<4:17:01, 1927.66s/it]Iter 0/300, Best Score: 74.308128, Time: 8.97 s
+Iter 20/300, Best Score: 40.297573, Time: 189.64 s
+Iter 40/300, Best Score: 21.337120, Time: 426.24 s
+Iter 60/300, Best Score: 21.337120, Time: 626.08 s
+Iter 80/300, Best Score: 15.408598, Time: 795.88 s
+Iter 100/300, Best Score: 15.408598, Time: 986.98 s
+Iter 120/300, Best Score: 11.580069, Time: 1130.60 s
+Iter 140/300, Best Score: 9.772399, Time: 1274.23 s
+Iter 160/300, Best Score: 6.411269, Time: 1418.15 s
+Iter 180/300, Best Score: 6.411269, Time: 1562.70 s
+Iter 200/300, Best Score: 5.529440, Time: 1707.80 s
+Iter 220/300, Best Score: 5.529440, Time: 1852.61 s
+Iter 240/300, Best Score: 5.529440, Time: 1997.88 s
+Iter 260/300, Best Score: 5.127126, Time: 2143.69 s
+Iter 280/300, Best Score: 5.127126, Time: 2289.98 s
+score： tensor(5.0682)
+Time taken: 2428.73 seconds
+[ 2.8055406e-01,-4.0000000e+00,-5.0000000e+00, 2.6172292e+00,
+  1.0000000e-01, 1.5000000e+01,-3.8877709e+00, 3.0965016e+00,
+ -5.8244061e-01, 8.8750052e-01, 1.2408550e-03, 4.5612850e+00]
+[2025-12-01 16:41:01,519][task][INFO][generic_smbo.py:295] Iter 93, objectives: [5.0681562423706055].
+ 93%|█████████▎| 93/100 [45:32:54<4:02:26, 2078.02s/it]Iter 0/300, Best Score: 95.298462, Time: 6.42 s
+Iter 20/300, Best Score: 77.178497, Time: 144.06 s
+Iter 40/300, Best Score: 69.652077, Time: 291.65 s
+Iter 60/300, Best Score: 69.572029, Time: 437.10 s
+Iter 80/300, Best Score: 69.500053, Time: 583.54 s
+[Early stop] Iter 100/300: best=69.408524, Time: 724.28 s
+score： tensor(69.4085)
+Time taken: 724.28 seconds
+[ 1.9488342e+00,-1.6011963e+00,-3.8277862e+00, 7.4105895e-01,
+  3.8149149e+00, 3.6459918e+00, 5.4784375e-01,-5.0000000e+00,
+ -8.4492922e-02, 3.2479205e+00, 1.7849705e-03, 1.0000000e-01]
+[2025-12-01 16:53:05,927][task][INFO][generic_smbo.py:295] Iter 94, objectives: [69.40852355957031].
+ 94%|█████████▍| 94/100 [45:44:59<2:47:11, 1671.94s/it]Iter 0/300, Best Score: 105.430710, Time: 6.54 s
+Iter 20/300, Best Score: 18.681290, Time: 141.01 s
+Iter 40/300, Best Score: 5.670863, Time: 278.91 s
+Iter 60/300, Best Score: 2.585215, Time: 421.83 s
+Iter 80/300, Best Score: 2.462297, Time: 568.87 s
+Iter 100/300, Best Score: 2.456440, Time: 719.44 s
+Iter 120/300, Best Score: 2.223660, Time: 871.64 s
+Iter 140/300, Best Score: 2.122682, Time: 1025.58 s
+Iter 160/300, Best Score: 2.012184, Time: 1181.06 s
+Iter 180/300, Best Score: 2.012184, Time: 1337.94 s
+Iter 200/300, Best Score: 2.006131, Time: 1495.78 s
+Iter 220/300, Best Score: 2.006131, Time: 1653.91 s
+Iter 240/300, Best Score: 2.001232, Time: 1812.27 s
+Iter 260/300, Best Score: 2.001232, Time: 1970.40 s
+Iter 280/300, Best Score: 1.979529, Time: 2128.67 s
+score： tensor(1.9693)
+Time taken: 2279.23 seconds
+[ 1.8246843e+00,-3.9664621e+00,-5.0000000e+00,-5.0000000e+00,
+  1.3168559e+00, 1.5000000e+01,-4.4483252e+00,-4.9677386e+00,
+  1.3050884e+00, 1.9770068e-01, 4.4398356e-04, 1.0000000e+01]
+[2025-12-01 17:31:05,261][task][INFO][generic_smbo.py:295] Iter 95, objectives: [1.9692976474761963].
+ 95%|█████████▌| 95/100 [46:22:58<2:34:30, 1854.16s/it][2025-12-01 17:31:05,265][task][INFO][generic_advisor.py:365] Sample random config. rand_prob=0.100000.
+Iter 0/300, Best Score: 80.951889, Time: 6.55 s
+Iter 20/300, Best Score: 19.398872, Time: 138.25 s
+Iter 40/300, Best Score: 12.717691, Time: 274.35 s
+Iter 60/300, Best Score: 12.459915, Time: 415.12 s
+Iter 80/300, Best Score: 12.371262, Time: 558.81 s
+Iter 100/300, Best Score: 12.177856, Time: 704.58 s
+Iter 120/300, Best Score: 12.139765, Time: 852.40 s
+Iter 140/300, Best Score: 12.072413, Time: 1001.71 s
+Iter 160/300, Best Score: 11.711357, Time: 1151.69 s
+Iter 180/300, Best Score: 11.672894, Time: 1302.55 s
+[Early stop] Iter 200/300: best=11.641870, Time: 1446.85 s
+score： tensor(11.6419)
+Time taken: 1446.85 seconds
+[ 2.0859559e+00,-2.7357757e+00,-1.9469090e+00,-2.7918127e+00,
+  1.7938248e+00, 9.0955048e+00,-1.7773678e+00,-2.2161946e+00,
+  1.0018253e+00, 2.5762525e+00, 1.1449816e-03, 7.4324064e+00]
+[2025-12-01 17:55:12,115][task][INFO][generic_smbo.py:295] Iter 96, objectives: [11.641870498657227].
+ 96%|█████████▌| 96/100 [46:47:05<1:55:27, 1731.96s/it]Iter 0/300, Best Score: 74.847198, Time: 6.46 s
+Iter 20/300, Best Score: 33.192532, Time: 134.50 s
+Iter 40/300, Best Score: 25.834896, Time: 274.72 s
+Iter 60/300, Best Score: 18.310095, Time: 422.87 s
+Iter 80/300, Best Score: 14.052104, Time: 577.01 s
+Iter 100/300, Best Score: 11.783395, Time: 732.86 s
+Iter 120/300, Best Score: 8.433068, Time: 889.16 s
+Iter 140/300, Best Score: 8.184359, Time: 1046.33 s
+Iter 160/300, Best Score: 7.929762, Time: 1204.32 s
+Iter 180/300, Best Score: 7.872597, Time: 1363.07 s
+Iter 200/300, Best Score: 7.716741, Time: 1522.73 s
+Iter 220/300, Best Score: 7.716741, Time: 1682.97 s
+Iter 240/300, Best Score: 7.704674, Time: 1843.36 s
+Iter 260/300, Best Score: 7.692139, Time: 2004.18 s
+Iter 280/300, Best Score: 7.685112, Time: 2165.07 s
+score： tensor(7.6820)
+Time taken: 2318.24 seconds
+[ 3.9869499e+00,-1.0821147e+00,-8.7712675e-01, 4.8844399e+00,
+  1.7744179e+00, 1.4997887e+01, 4.9090636e-01, 3.4016350e-01,
+  1.5538051e+00, 8.4595895e-01, 1.0206799e-03, 9.8622246e+00]
+[2025-12-01 18:33:50,494][task][INFO][generic_smbo.py:295] Iter 97, objectives: [7.681980609893799].
+ 97%|█████████▋| 97/100 [47:25:43<1:35:23, 1907.89s/it]Iter 0/300, Best Score: 78.247932, Time: 6.49 s
+Iter 20/300, Best Score: 27.789749, Time: 138.73 s
+Iter 40/300, Best Score: 16.513206, Time: 279.58 s
+Iter 60/300, Best Score: 14.468301, Time: 429.18 s
+Iter 80/300, Best Score: 13.976501, Time: 612.88 s
+Iter 100/300, Best Score: 9.008345, Time: 772.05 s
+Iter 120/300, Best Score: 8.826129, Time: 930.91 s
+Iter 140/300, Best Score: 6.097001, Time: 1118.27 s
+Iter 160/300, Best Score: 5.816252, Time: 1273.09 s
+Iter 180/300, Best Score: 5.727403, Time: 1432.97 s
+Iter 200/300, Best Score: 5.556390, Time: 1598.34 s
+Iter 220/300, Best Score: 5.556139, Time: 1757.99 s
+Iter 240/300, Best Score: 5.268477, Time: 1941.22 s
+Iter 260/300, Best Score: 5.222187, Time: 2140.81 s
+Iter 280/300, Best Score: 5.114550, Time: 2303.23 s
+score： tensor(5.0856)
+Time taken: 2478.68 seconds
+[ 1.4218510e+00,-3.2067378e+00,-2.9211798e+00, 4.3206434e+00,
+  6.7423129e-01, 1.4996504e+01,-7.7034634e-01,-1.8568385e-01,
+ -5.9523773e-01, 5.1567608e-01, 8.6820754e-04, 9.9547777e+00]
+[2025-12-01 19:15:09,283][task][INFO][generic_smbo.py:295] Iter 98, objectives: [5.0856194496154785].
+ 98%|█████████▊| 98/100 [48:07:02<1:09:18, 2079.16s/it]Iter 0/300, Best Score: 105.110573, Time: 10.66 s
+Iter 20/300, Best Score: 30.895962, Time: 171.13 s
+Iter 40/300, Best Score: 17.707523, Time: 321.55 s
+Iter 60/300, Best Score: 15.124794, Time: 478.20 s
+Iter 80/300, Best Score: 13.964865, Time: 635.48 s
+Iter 100/300, Best Score: 8.984281, Time: 800.17 s
+Iter 120/300, Best Score: 7.634909, Time: 959.98 s
+Iter 140/300, Best Score: 7.358072, Time: 1115.36 s
+Iter 160/300, Best Score: 7.358072, Time: 1272.15 s
+Iter 180/300, Best Score: 7.331806, Time: 1430.00 s
+Iter 200/300, Best Score: 5.787329, Time: 1615.66 s
+Iter 220/300, Best Score: 5.716420, Time: 1782.60 s
+Iter 240/300, Best Score: 5.613825, Time: 1950.04 s
+Iter 260/300, Best Score: 5.533783, Time: 2162.88 s
+Iter 280/300, Best Score: 5.428174, Time: 2331.25 s
+score： tensor(5.3915)
+Time taken: 2490.35 seconds
+[ 2.5116725e+00,-1.8495620e+00,-1.7878807e+00,-7.4624196e-02,
+  1.5341899e+00, 7.8876824e+00,-1.0877591e+00,-1.1996696e+00,
+  1.8937911e+00, 9.4877988e-01, 7.8970066e-04, 5.5552092e+00]
+[2025-12-01 19:56:39,879][task][INFO][generic_smbo.py:295] Iter 99, objectives: [5.3914875984191895].
+ 99%|█████████▉| 99/100 [48:48:33<36:42, 2202.59s/it]  [2025-12-01 19:56:39,884][task][INFO][generic_advisor.py:365] Sample random config. rand_prob=0.100000.
+Iter 0/300, Best Score: 97.057335, Time: 6.89 s
+Iter 20/300, Best Score: 70.578438, Time: 142.68 s
+Iter 40/300, Best Score: 49.965065, Time: 271.15 s
+Iter 60/300, Best Score: 49.181839, Time: 399.90 s
+Iter 80/300, Best Score: 46.721329, Time: 528.94 s
+[Early stop] Iter 100/300: best=46.721329, Time: 650.58 s
+score： tensor(46.7213)
+Time taken: 650.58 seconds
+[ 1.0000000e-01,-4.0000000e+00,-5.0000000e+00, 5.0000000e+00,
+  1.0000000e-01, 1.5000000e+01,-5.0000000e+00, 5.0000000e+00,
+ -1.5899744e+00, 1.0000000e+01, 1.0090001e-02, 1.0000000e+01]
+[2025-12-01 20:07:30,465][task][INFO][generic_smbo.py:295] Iter 100, objectives: [46.72132873535156].
+[2025-12-01 20:07:30,469][task][INFO][html_visualizer.py:96] Please open the html file to view visualization result: file:///home/yang_zihan/autumn25/hh_gpu_FS_ferret_2v/251125_v1/logs/history/task/task_2025-11-29-19-08-06-764577.html
+100%|██████████| 100/100 [48:59:23<00:00, 1736.99s/it]100%|██████████| 100/100 [48:59:23<00:00, 1763.64s/it]
++-------------------------+---------------+
+| Parameters              | Optimal Value |
++-------------------------+---------------+
+| cg                      | 1.800000      |
+| cl                      | 0.600000      |
+| speed                   | 0.700000      |
+| weight                  | 0.800000      |
++-------------------------+---------------+
+| Optimal Objective Value | 1.969298      |
++-------------------------+---------------+
+| Num Trials              | 100           |
++-------------------------+---------------+
